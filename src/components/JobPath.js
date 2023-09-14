@@ -20,7 +20,7 @@ function JobPath({ jobPath }) {
                 {isHovered && (<div className="job-path-description">{jobPath.description}</div>)}
             </div>
             {jobPath.jobs.map((job, index) => (
-                <Job className="job-path-job" key={index} job={job}></Job>
+                <Job key={index} job={job}></Job>
             ))}   
         </div>
     );

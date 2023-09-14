@@ -1,3 +1,27 @@
 .app {
     font-size: 14px;
 }
+
+@media (max-width: 1199px) {
+    .app {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 991px) {
+    .app {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 767px) {
+    .app {
+        font-size: 8px;
+    }
+}
+
+@media (max-width: 575px) {
+    .app {
+        font-size: 7px;
+    }
+}

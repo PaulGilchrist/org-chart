@@ -7,10 +7,10 @@
     border-radius: 5px;
     color: white;
     cursor: pointer;
-    height: 40px;
-    /* Vertically center the text by matching height */
-    line-height: 40px;
-    overflow: hidden;
+    display: grid;
+    height: 60px;
+    padding: 0 10px 0 10px;
+    place-items: center;
     text-align: center;
     width: 150px;
 }
@@ -32,4 +32,36 @@
     position: absolute;
     top: 50%;
     transform: translate(-50%, -50%);
+}
+
+@media (max-width: 1299px) {
+    .job-item {
+        height: 50px;
+        padding: 0 8px 0 8px;
+        width: 100px;
+    }
+}
+
+@media (max-width: 991px) {
+    .job-item {
+        height: 40px;
+        padding: 0 6px 0 6px;
+        width: 80px;
+    }
+}
+
+@media (max-width: 767px) {
+    .job-item {
+        height: 30px;
+        padding: 0 4px 0 4px;
+        width: 60px;
+    }
+}
+
+@media (max-width: 575px) {
+    .job-item {
+        height: 20px;
+        padding: 0 2px 0 2px;
+        width: 50px;
+    }
 }
