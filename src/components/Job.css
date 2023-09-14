@@ -26,6 +26,7 @@
     border-radius: 5px;
     /* Adjust the text color of the hover text as needed */
     color: #ffffff;
+    font-size: 0.85em;
     left: 50%;
     max-width: 600px;
     padding: 10px;
