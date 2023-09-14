@@ -16,7 +16,7 @@ function Job({ job }) {
         <div className="job">
             <i></i>
             <div className={`job-item ${isHovered ? 'hovered' : ''}`} onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>{job.name}</div>
-            {isHovered && (<div className="job-description">{job.description}</div>)}
+            {isHovered && (<div className="job-description" dangerouslySetInnerHTML={{ __html: job.description }}></div>)}
         </div>
     );
 }
