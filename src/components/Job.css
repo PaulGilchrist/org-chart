@@ -1,0 +1,35 @@
+.job {
+    flex: 1;
+}
+
+.job-item {
+    background-color: #78828C;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    height: 40px;
+    /* Vertically center the text by matching height */
+    line-height: 40px;
+    overflow: hidden;
+    text-align: center;
+    width: 150px;
+}
+
+.job-item.hovered {
+    /* Adjust the hover background color as needed */
+    background-color: #8C7C78;
+}
+
+.job-description {
+    /* Adjust the background color of the hover text as needed */
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 5px;
+    /* Adjust the text color of the hover text as needed */
+    color: #ffffff;
+    left: 50%;
+    max-width: 600px;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
