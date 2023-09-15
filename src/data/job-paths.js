@@ -435,26 +435,39 @@ const JOB_PATHS = [
                 name: "Project Manager",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for planning, organizing, facilitating and managing the activities of a project team throughout the solution delivery lifecycle. <br>
+                Is an educated professional responsible for managing a portfolio of projects of moderate complexity and enterprise-scale impact.  Organizes and monitors teams of medium to large size.<br>
+                Works under limited supervision. Professional guidance required for unusual or complex problems or projects. <br>
+                Has enough technical insight to be considered a credible leader for development or engineering teams, to facilitate resolution of product issues, and to evaluate complex project issues and risks. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Manages project initiation activities including development of project management and communication plans, identify stakeholders, secure project resources, and facilitate project kick-off</li>
+                    <li>Interacts with cross-functional teams to plan solution releases, testing coordination and implementation of final product.</li>
+                    <li>Manages project risk, issues and activities to ensure project goals, budget, deadline, scope and quality are achieved. Remove blocks and assists with problem resolution or risk mitigation as needed.</li>
+                    <li>Establishes vendor relationships through product evaluation, selection, and creation of Request for Proposal (RFP).</li>
+                    <li>Participates in the creation and maintenance of budget throughout the project lifecycle</li>
+                    <li>Actively contributes in the expansion of the PM discipline across the organization through various learning and development initiatives and provides guidance to other PMs.</li>
+                    <li>Ensures project is progressing as planned through constant prioritization, cost, scope, change and quality management</li>
+                    <li>Completes project closure activities to formalize and communicate the project acceptance. Hands over documentation and ongoing activities to accountable teams.</li>
+                    <li>Conducts a retrospective project review to identify areas of improvement</li>
+                    <li>Applies and holds team accountable to the use of Pulte’s standard project and functional practices, procedures, and use of tools</li>
+                    <li>Identifies and implements the methodology, tools and templates used and sets expectations on how the project will be executed</li>
+                    <li>Oversees and supports the creation of the WBS (Work Breakdown Structure) for the project</li>
+                    <li>May participate in the discovery and selection of external staffing resources</li>
+                    <li>Ensures project deliverables are in alignment with compliance objectives and participates in audit processes.</li>
+                    <li>Oversees escalated product support including on-call (after-hours, weekends, and holidays) for high priority issues.</li>
+                    <li>Participates in the continuous employee review process by providing specific input regarding team member performance</li>
+                    <li>Within project team, identifies process gaps or areas for improvement and recommends or implements solutions.</li>
+                    <li>Coordinates and oversees onboarding of new project team members including system, tools and project methodology training</li>
+                    <li>Provides project status and KPI reports to IT leadership</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor’s degree in a field related to the position or a combination of related education and work experience in the area of project management equal to four years.</li>
+                    <li>Minimum of 5 years of experience required in a Project Manager, Project Coordinator or equivalent role.</li>
+                    <li>PMI-PMP, PMI-ACP or equivalent strongly preferred</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -462,26 +475,41 @@ const JOB_PATHS = [
                 name: "Sr. Project Manager",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for planning, organizing, facilitating and managing a broad range of highly complex and enterprise-scale projects and/or solution implementations. <br>
+                Contribution is felt across a wide array of project and program efforts within the IT department. Individual is known and recognized within the department for breadth of knowledge and contributions. <br>
+                Is an educated and highly experienced professional competent to work at the highest professional level. Manages a portfolio of projects and programs involving medium and large teams. <br>
+                Considers the current and future business environment in the planning and delivery of a project/solution. Brings enterprise-level perspective to planning and organization of projects.  Normally works under general guidance without direct oversight. <br>
+                Has considerable technical insight and is considered a credible leader for development or engineering teams, to facilitate resolution of product issues, and to evaluate complex project issues and risks.  <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Manages project initiation activities including development of project management and communication plans, identify stakeholders, secure project resources, and facilitate project kick-off</li>
+                    <li>Interacts with cross-functional teams to plan solution releases, testing coordination and implementation of final product. </li>
+                    <li>Manages project risk, issues and activities to ensure project goals, budget, deadline, scope and quality are achieved. Remove blocks and assists with problem resolution or risk mitigation as needed. </li>
+                    <li>Holistically manages vendor relationships through product evaluation, selection, creation of Request for Proposal (RFP), negotiation, and closure. </li>
+                    <li>Produces project budgets and submits to leadership for rollup into department budgets; manages project budget throughout the project lifecycle </li>
+                    <li>Contributes to the development of the Project Manager competency, drives the expansion of the PM discipline across the organization through various learning and development initiatives, and formally mentors other PMs. </li>
+                    <li>Ensures project/program is progressing as planned through constant prioritization, cost, scope, change and quality management </li>
+                    <li>Completes project/program closure activities to formalize and communicate the project acceptance. Hands over documentation and ongoing activities to accountable teams. </li>
+                    <li>Conducts a retrospective project/program review to identify areas of improvement </li>
+                    <li>Applies and holds team accountable to the use of Pulte’s standard project and functional practices, procedures, and use of tools </li>
+                    <li>Identifies, implements, and adapts the methodology, tools, and templates used for a project and sets expectations on how the project will be executed based on the team’s dynamic, personnel, and context </li>
+                    <li>Oversees and supports the creation of the WBS (Work Breakdown Structure) for the project </li>
+                    <li>Collaborates with leadership to identify and select external staffing partners and helps manage the partner relationship </li>
+                    <li>Ensures project deliverables are in alignment with compliance objectives and participates in audit processes. </li>
+                    <li>Oversees escalated product support including on-call (after-hours, weekends, and holidays) for high priority issues. </li>
+                    <li>Participates in the continuous employee review process by providing specific input regarding team member performance </li>
+                    <li>Within project/program team, identifies process gaps or areas for improvement across all functional areas and drives solution implementation </li>
+                    <li>Coordinates and oversees onboarding of new project team members including system, tools and project methodology training  </li>
+                    <li>Defines and implements project KPI’s in addition to providing project/program status and KPI reports to IT and business leadership </li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor’s degree in a field related to the position or a combination of related education and work experience in the area of project management equal to four years. </li>
+                    <li>PMI-PMP, PMI-ACP, PMI-PfMP, PMI-PgMP or recognized equivalent required.  </li>
+                    <li>Minimum of 10 years of experience required in a Project Manager, Program Manager, Portfolio Manager or equivalent role.   </li>
+                    <li>Demonstrated ability to exceed expectations of the Project Manager role. </li>
+                    <li>These minimum requirements will also include additional criteria specific to the position. </li>
                 </ul>
                 `
             }
@@ -906,19 +934,19 @@ const JOB_PATHS = [
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li>Defines project goals and objectives based on the training plan. </li>
-                    <li>Participates on project teams. </li>
-                    <li>Develops learning materials, including self-guided training material, instructor-led presentations and web-based e-learning modules and documentation. </li>
+                    <li>Defines project goals and objectives based on the training plan.</li>
+                    <li>Participates on project teams.</li>
+                    <li>Develops learning materials, including self-guided training material, instructor-led presentations and web-based e-learning modules and documentation.</li>
                     <li>Keeps learning materials up to date.</li>
-                    <li>Coordinates scheduling and manages logistics of all learning sessions and materials in alignment with the training plans. </li>
-                    <li>Delivers training across markets per project and implementation schedules. </li>
+                    <li>Coordinates scheduling and manages logistics of all learning sessions and materials in alignment with the training plans.</li>
+                    <li>Delivers training across markets per project and implementation schedules.</li>
                     <li>Provides support for all training related questions.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
                     <li>A bachelor’s degree in a field related to the position.</li>
-                    <li>Minimum of 2 years’ experience required in a related role. </li>
-                    <li>These minimum requirements will also include additional criteria specific to the position. </li>
+                    <li>Minimum of 2 years’ experience required in a related role.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -936,19 +964,19 @@ const JOB_PATHS = [
                 <ul>
                     <li>Defines project goals and objectives based on the training plan.  Participates on project teams.</li>
                     <li>Develops learning materials, including self-guided training material, instructor-led presentations and web-based e-learning modules and documentation.</li>
-                    <li>Keeps learning materials up to date. </li>
-                    <li>Reviews materials for less experienced Learning Specialists. </li>
-                    <li>Coordinates scheduling and manages logistics of all learning sessions and materials in alignment with the training plans. </li>
+                    <li>Keeps learning materials up to date.</li>
+                    <li>Reviews materials for less experienced Learning Specialists.</li>
+                    <li>Coordinates scheduling and manages logistics of all learning sessions and materials in alignment with the training plans.</li>
                     <li>Delivers training across markets per project and implementation schedules.</li>
                     <li>Provides support for all training related questions.</li>
-                    <li>Assesses training effectiveness and user competency, identifies gaps and recommends solutions for continued improvement. </li>
-                    <li>Utilizes complex and modern tools, technologies and methods. </li>
-                    <li>Participates in creating and updating of team best practices, methods, standards and processes. </li>
+                    <li>Assesses training effectiveness and user competency, identifies gaps and recommends solutions for continued improvement.</li>
+                    <li>Utilizes complex and modern tools, technologies and methods.</li>
+                    <li>Participates in creating and updating of team best practices, methods, standards and processes.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>A bachelor’s degree in a field related to the position. </li>
-                    <li>Minimum of 5 years’ experience required in a related role. </li>
+                    <li>A bachelor’s degree in a field related to the position.</li>
+                    <li>Minimum of 5 years’ experience required in a related role.</li>
                     <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
@@ -965,26 +993,26 @@ const JOB_PATHS = [
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li>Defines project goals and objectives based on the training plan. </li>
-                    <li>Participates on project teams. Reviews training plans for less experienced Learning Specialists. </li>
+                    <li>Defines project goals and objectives based on the training plan.</li>
+                    <li>Participates on project teams. Reviews training plans for less experienced Learning Specialists.</li>
                     <li>Develops learning materials, including self-guided training material, instructor-led presentations and web-based e-learning modules and documentation.</li>
-                    <li>Keeps learning materials up to date. </li>
+                    <li>Keeps learning materials up to date.</li>
                     <li>Reviews materials for less experienced Learning Specialists.</li>
-                    <li>Coordinates scheduling and manages logistics of all learning sessions and materials in alignment with the training plans.  </li>
-                    <li>Delivers training across markets per project and implementation schedules. </li>
-                    <li>Provides support for all training related questions. </li>
-                    <li>Assesses training effectiveness and user competency, identifies gaps and recommends solutions for continued improvement. </li>
+                    <li>Coordinates scheduling and manages logistics of all learning sessions and materials in alignment with the training plans.</li>
+                    <li>Delivers training across markets per project and implementation schedules.</li>
+                    <li>Provides support for all training related questions.</li>
+                    <li>Assesses training effectiveness and user competency, identifies gaps and recommends solutions for continued improvement.</li>
                     <li>Assists less experienced Learning Specialists with this task.</li>
                     <li>Leads evaluation and selection of training tools, technologies and methods that meet present and future business needs.</li>
-                    <li>Serves as an expert of these tools, technologies and methods. </li>
-                    <li>Facilitates and champions team best practices, methods, standards and processes. </li>
+                    <li>Serves as an expert of these tools, technologies and methods.</li>
+                    <li>Facilitates and champions team best practices, methods, standards and processes.</li>
                     <li>Train, coach and mentor other Learning Specialists.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>A bachelor’s degree in a field related to the position. </li>
+                    <li>A bachelor’s degree in a field related to the position.</li>
                     <li>Minimum of 10 years’ experience required in a related role.</li>
-                    <li>These minimum requirements will also include additional criteria specific to the position. </li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             }
@@ -1226,27 +1254,29 @@ const JOB_PATHS = [
                 name: "Operations Technician",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
-                <br>
+                Provides entry-level Data Center Operations (DCO) monitoring, Wide Area Network (WAN) support, & first-level server alert response.<br>
+                Also serves as a backup resource to Technical Support Center (TSC) during weekend & after-hours time periods.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Serves as generalist responsible for providing the majority of server & networking support for issues of low complexity.</li>
+                    <li>Completes daily, weekly & monthly checklists for routine tasks.</li>
+                    <li>Monitors tape & disk backups of servers; & responds appropriately to failures. Manages backup tape inventory & offsite tape rotation.</li> 
+                    <li>Troubleshoots first-level WAN & server issues working from existing knowledge databases.</li>
+                    <li>Supplements other support teams by performing customer access provisioning for new hires following documented procedures.</li>
+                    <li>Monitors AS/400 jobs; performs backups & tests restores; manages tapes.</li>
+                    <li>Configures, tracks & ships routers & AP’s to field locations using documented procedures.</li>
+                    <li>Liaises with vendors for the servicing of hardware in the data center.</li>
+                    <li>Monitors access to Data Center & responds to facilities alerts on UPS, CRAC & other in-room equipment.</li>
+                    <li>Racks & tracks devices & cabling; monitors rack capacity.</li>
+                    <li>Installs iDRAC cards, monitors temperature, & responds to hardware alerts.</li>
+                    <li>Must be willing to maintain flexible schedule including rotating evenings, nights, holidays & weekends.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Experience with wireless infrastructure, Windows Operating System (OS), user administration &/or enterprise-level monitoring software is preferred.</li>
+                    <li>High school graduate or equivalent required.</li> 
+                    <li>These minimum requirements may also include additional criteria specific to the position.</li>                    
                 </ul>
                 `
             },
@@ -1254,27 +1284,30 @@ const JOB_PATHS = [
                 name: "Operations Engineer I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
-                <br>
+                Provides second-level Data Center Operations (DCO) monitoring, Wide Area Network (WAN) support & response to server alerts.<br>
+                Serves as day-to-day administrator of system monitoring applications.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Serves as generalist responsible for providing the majority of server & networking support for issues of low-to-moderate complexity.</li>
+                    <li>Specializes in the administration of one or more systems monitoring / management applications such as SCOM, Solarwinds, NetBackup or Lumension.</li>
+                    <li>Troubleshoots second-level WAN & server issues working from existing knowledge databases.</li>
+                    <li>Creates, documents & maintains procedures for configuring metro routers & AP’s including dhcp scopes, security lockdowns, & Zscaler settings.</li>
+                    <li>Proactively leads process improvements to automate processes such as site connectivity turn-ups, & configuration updates.</li>
+                    <li>Manages Pulte’s inventory of broadband & wireless site routers including configures, tracks & ships routers & AP’s to field locations.</li>
+                    <li>Create documented procedures for less senior team members.</li>
+                    <li>Liaises with vendors for ordering, installation & servicing equipment & systems in the data center.</li>
+                    <li>Configures new monitoring & establishes standardized settings & names for systems they administer & track.</li>
+                    <li>Manages server refresh & decommissioning processes.</li>
+                    <li>Must be willing to maintain flexible schedule including rotating evenings, nights, holidays & weekends.</li>
+                    <li>Rotating on-call required for limited hours when the DCO is not staffed on site.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Familiarity with PowerShell required; proficiency desired.</li>
+                    <li>Minimum of 1-3 years of experience in one technical specialty area such as user administration, server backups or networking required.</li>
+                    <li>Associate's degree in Computer Information Systems or equivalent experience required; Bachelor's degree or equivalent experience preferred.</li>
+                    <li>These minimum requirements may also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -1372,26 +1405,23 @@ const JOB_PATHS = [
                 name: "Network Engineer I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for engineering, second-level technical support, and technology integration services for moderately complex network infrastructure including wide area networks (WAN), local area networks (LAN), secure wireless networks, firewalls, load balancers, and related devices. Participates in team initiatives while simultaneously participating in multiple IT project implementations. <br>
+                Has a knowledge of fundamental concepts, practices, and procedures. Works under direct supervision and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Daily support and engineering services to deploy and test various network infrastructure components and platforms to support company applications and projects, including secure wireless solutions, local and wide area networks, and enterprise-class datacenter network architecture.</li>
+                    <li>Participates in implementation of disaster recovery solutions and implements proactive management and monitoring systems.</li>
+                    <li>Deploys network components for private and public cloud technologies in a highly virtualized environment.</li>
+                    <li>Ensures network is appropriately optimized to meet performance requirements and follow architectural standards.</li>
+                    <li>Participates in internal initiatives for the implementation, use, and improvement of processes, procedures, guidelines, and metrics for network infrastructure.</li>
+                    <li>Serves as escalation point for resolving moderately complex network issues. Gathers diagnostics and troubleshoots network issues as needed. Participates in rotational on-call support.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required.</li>
+                    <li>Minimum 2 years of experience in deploying and supporting enterprise-class network infrastructure in a datacenter and large-scale WAN environment.</li>
+                    <li>Minimum 1 year of experience supporting network infrastructure in a public, private, and hybrid cloud environment.</li>
                 </ul>
                 `
             },
@@ -1399,26 +1429,28 @@ const JOB_PATHS = [
                 name: "Network Engineer II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Leads and provides engineering, second-level technical support, and technology integration services for moderately complex to complex network infrastructure including wide area networks (WAN), local area networks (LAN), secure wireless networks, firewalls, load balancers and related devices. Leads team initiatives and participates simultaneously in multiple IT project implementations. <br>
+                Learned professional responsible for resolving problems of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited supervision. Technical guidance required for unusual and/or complex problems/projects.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Uses expert knowledge to provide engineering services to scope, design, test, and deploy various network infrastructure components and platforms to support company applications and projects, including secure wireless solutions, local and wide area networks, and enterprise-class datacenter network architecture.</li>
+                    <li>Implements disaster recovery solutions and proactive management and monitoring systems.</li>
+                    <li>Participates in the design and deploys network components for private and public cloud technologies in a highly virtualized environment.</li>
+                    <li>Ensures network is appropriately optimized to meet performance requirements in alignment with technology roadmap.</li>
+                    <li>Provides mentoring to less senior members on and off the team.</li>
+                    <li>Participates in, or leads, internal initiatives for the implementation, use, and improvement of processes, procedures, guidelines, and metrics for network infrastructure.</li>
+                    <li>Serves as escalation point for resolving moderately complex to complex network issues. Gathers diagnostics and troubleshoots complex network issues as needed. Participates in rotational on-call support.</li>
+                    <li>Analyzes metrics from complex technical security and network configurations to ensure stability, responsiveness, and efficiency of the Company's network infrastructure.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required.</li>
+                    <li>Minimum 5 years of experience in deploying and supporting enterprise-class network infrastructure in a datacenter and large-scale WAN environment.</li>
+                    <li>Minimum 2 years of experience supporting network infrastructure in a public, private, and hybrid cloud environment.</li>
+                    <li>Minimum 2 years of experience implementing enterprise-class network monitoring tools.</li>
+                    <li>Multi-protocol Label Switching (MPLS) experience required.</li>
+                    <li>Cisco Certified Network Associate (CCNA)/ Cisco certified network professional (CCNP) or other network professional level certifications highly preferred.</li>
                 </ul>
                 `
             },
@@ -1426,26 +1458,29 @@ const JOB_PATHS = [
                 name: "Network Engineer III",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Leads and provides engineering, advanced technical support, and technology integration services for the most complex network infrastructure including wide area networks (WAN), local area networks (LAN), secure wireless networks, firewalls, load balancers and related devices. Leads team initiatives and participates simultaneously in multiple IT project implementations. <br>
+                Experienced professional competent to work at the highest technical level. Considers the current and future business environment in the design and upgrade of systems. Brings Enterprise level perspective to designs and solutions.  Normally works under general guidance without technical supervision.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Takes lead role on the engineering services to scope, design, test, and deploy various network infrastructure components and platforms to support company applications and projects, including secure wireless solutions, local and wide area networks, and enterprise-class datacenter network architecture.</li>
+                    <li>Designs and implements disaster recovery solutions and proactive management and monitoring systems.</li>
+                    <li>Leads the design and deployment of network components for private and public cloud technologies in a highly virtualized environment.</li>
+                    <li>In collaboration with Architects, ensures network strategy is optimized to meet both current and future business needs.</li>
+                    <li>Provides technical leadership and mentoring to less senior members on and off the team.</li>
+                    <li>Leads internal initiatives for the implementation, use, and improvement of processes, procedures, guidelines, and metrics for network infrastructure.</li>
+                    <li>Serves as escalation point for resolving the most complex network issues. Gathers diagnostics and troubleshoots as needed. Participates in rotational on-call support.</li>
+                    <li>Analyzes metrics from complex technical security and network configurations to ensure stability, responsiveness, and efficiency of the Company's network infrastructure.</li>
+                    <li>Evaluates, recommends and leads implementation of networking components and solutions that align with the goals of Enterprise Architecture.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required.</li>
+                    <li>Minimum 10 years of experience in deploying and supporting enterprise-class network infrastructure in a datacenter and large-scale WAN environment.</li>
+                    <li>Minimum 5 years of experience supporting network infrastructure in a public, private, and hybrid cloud environment.</li>
+                    <li>Minimum 5 years of experience implementing enterprise-class network monitoring tools.</li>
+                    <li>Multi-protocol Label Switching (MPLS) experience required.</li>
+                    <li>Cisco Certified Network Associate (CCNA)/ Cisco certified network professional (CCNP) or other network professional level certifications required.</li>
                 </ul>
                 `
             }
@@ -1582,7 +1617,7 @@ const JOB_PATHS = [
                 <h3>Typical Responsibilities</h3>
                 <ul>
                     <li>All Engineer I responsibilities</li>
-                    <li>Demonstrates an intermediate level of technical knowledge  and a fundamental understanding of key business processes in their market and the enterprise </li>
+                    <li>Demonstrates an intermediate level of technical knowledge  and a fundamental understanding of key business processes in their market and the enterprise</li>
                     <li>Tests & identifies workstation & laptop models for service catalog; manages ordering & disposal of assets including compliance with Legal Holds processes. Responds to escalated alerts & cases from the Technical Support Center (TSC) & Data Center Operations (DCO) teams to resolve moderately complex to complex issues. Performs advanced, site-based troubleshooting & diagnostics gathering as needed. Participates in on-call support.</li>
                     <li>Provides technical leadership & mentoring to Field Server Engineer I's, Operation Technicians & Support Technicians. Leads internal initiatives for the implementation & improvement of field-based processes. Serves as the primary integration point among centralized corporate infrastructure processes & field locations. Identifies support processes that can be migrated from the Field support team to the TSC.</li>
                 </ul>
@@ -1611,9 +1646,9 @@ const JOB_PATHS = [
                     <li>Uses advanced knowledge of server OS, networking technologies, tools and software along with business process experience to develop and implement strategies that align with Business goals</li>                    
                     <li>Researches and determines the most effective use of technology in support of business strategic goals across diverse market requirements.</li>                    
                     <li>Works in conjunction with IT   architects to design optimized network and local infrastructure components to meet performance requirements across diverse networks.</li>
-                    <li>Effectively transitions work to appropriate teams to consistently  implement across the enterprise </li>
+                    <li>Effectively transitions work to appropriate teams to consistently  implement across the enterprise</li>
                     <li>Participates in department-wide projects & the support turnover process. Interfaces with all levels of the division-based hierarchy & all IT functional groups. Must provide exceptional customer service & translate technical concepts for non-technical audiences.</li>
-                    <li>Sets the parameters for the build, deployment, and maintenance of Field technologies in coordination with business and IT goals and standards. Ensures effective implementation across the team </li>
+                    <li>Sets the parameters for the build, deployment, and maintenance of Field technologies in coordination with business and IT goals and standards. Ensures effective implementation across the team</li>
                     <li>Cohesively plans and develops strategies with IT, Business Verticals and Market Leadership using business knowledge and technical experience</li>
                     <li>Serves as a business and technical subject matter expert through all phases of Field Services support and project implementation.</li>
                     <li>Leads the selection and evaluation of core Field Services solutions that meet present and future business needs.</li>
