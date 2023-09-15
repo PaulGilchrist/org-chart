@@ -1688,54 +1688,85 @@ const JOB_PATHS = [
             {
                 name: "DevOps Engineer I",
                 description: `
-                <h3>Class Concept / Competency</h3>
-                <br>
+                <h3>Summary</h3>
+                PulteGroup, Inc. is looking to expand our team of talented Information Technology professionals. We have an excellent reputation as a great place to work with an open, collaborative culture. We are looking for an experienced DevOps Engineer to join our Application Delivery team. We seek a highly motivated individual with a proven track-record of delivering successful IT and business outcomes.<br>
+                The DevOps Engineer will be a member of PulteGroup's Application Delivery team and will report to an IT Manager. The role will be based out of PulteGroup's corporate office extension in Tempe, AZ or corporate office in Atlanta, GA and will require collaboration and partnership with team members across multiple functions/locations.  The DevOps Engineer position will be required to work within flexible working hours with periodic evening hours necessary for deployment, support, and on-call activities.<br>
+                As a DevOps Engineer, you will be responsible for the tools, frameworks, automation, processes, and services that enable the delivery of software and cloud environments to the end user.  Success in this role is defined by achieving fast and simple processes that measurably accelerate Dev to Prod cycle time.<br>
+                We will help you attain your career development goals with training, mentoring, and growth opportunities.<br>
+                We believe success starts with having the right people -- those who have the right attitude and aptitude. We seek out goal-oriented professionals who are creators, leaders, and pioneers. We value diversity in our workforce. By bringing together people with different backgrounds, thoughts, and life experiences, we create a competitive advantage.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Administers the tools, processes, and automation supporting cloud environments, Source Code Management, Configuration Management, Continuous Integration, Continuous Delivery, Continuous Testing, and Continuous Monitoring.</li>
+                    <li>Writes automation script/code to improve build/release tools, systems, and processes.</li>
+                    <li>Creates and maintains automated Continuous Integration/Continuous Delivery (CI/CD) pipelines.</li>
+                    <li>Ensures project source materials are maintained in the version control system, including source code and attendant files and ensures that appropriate quality checks and approvals are adhered to prior to merges and promotions.  Ensures application team compliance to branching strategies.</li>
+                    <li>Works collaboratively with teammates, management, and application development teams to automate and continuously improve software deployment processes. Provides mentoring to application development teams on DevOps standards and processes.  Participates in projects to establish and evolve DevOps practices and implement improvement plans.  Leverages understanding of IT processes and technology to provide analysis and recommendations for solutions.</li>
+                    <li>Works closely with application development teams to ensure development processes follow established standards.</li>
+                    <li>Helps implement the optimal cloud resources for executing workloads and optimizing cloud spend.</li>
+                    <li>Automates the creation and maintenance of cloud resources and environments via scripting and templates.</li>
+                    <li>Ensures the overall quality of environments.</li>
+                    <li>Works with 3rd party vendors to resolve configuration and deployment issues with off-the-shelf software.</li>
+                    <li>Supports and facilitates auditing and reporting of deployment activity.</li>
+                    <li>Participates in planning activities for software releases. Executes Staging and Production release activities.</li>
+                    <li>Monitors CI/CD tools and processes. Troubleshoots and provides quick resolution to production related issues.  Works cross functionally to resolve issues.  Communicates status /solutions of these issues to appropriate stakeholders.</li>
+                    <li>May work non-business hours and weekends to avoid impact to production systems.</li>
+                    <li>Participates in projects to establish and evolve DevOps practices, tools, and processes.</li>
+                    <li>Updates job knowledge by studying state-of-the-art tools and best practices related to DevOps and other Information Technologies; participating in educational opportunities; reading professional publications; maintaining personal networks; participating in professional organizations.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>2 + years in a DevOps Engineer, Configuration Management Engineer, or similar role</li>
+                    <li>Proficient in the development and maintenance of CI/CD pipelines using Azure DevOps and PowerShell</li>
+                    <li>Knowledge of scripting languages and common configuration file formats (PowerShell, xml, json, Shell, etc.)</li>
+                    <li>Experience with source control systems and branching strategy (Azure DevOps, Git)</li>
+                    <li>1 + years' experience implementing, configuring, maintaining, and monitoring Azure PaaS cloud resources including App Services, Application Insights, Automation Accounts, Data Factory, Function Apps, Key Vault, Logic Apps, Runbooks, SQL Server/DB/Elastic Pool, Storage, Traffic Manager</li>
+                    <li>Experience with configuration and deployment of applications on Windows Servers, SQL Databases, IIS, Windows Services and Scheduled Tasks</li>
+                    <li>A bachelor's degree in Computer Information Systems, a field related to the position, or a combination of related education and work experience in DevOps Engineering, or Configuration management equivalent to four years</li>
+                    <li>Preferred: Microsoft Certified Azure Administrator Associate</li>
                 </ul>
                 `
             },
             {
                 name: "DevOps Engineer II",
                 description: `
-                <h3>Class Concept / Competency</h3>
-                <br>
+                <h3>Summary</h3>
+                PulteGroup, Inc. is looking to expand our team of talented Information Technology professionals. We have an excellent reputation as a great place to work with an open, collaborative culture. We are looking for an experienced DevOps Engineer to join our Application Delivery team. We seek a highly motivated individual with a proven track-record of delivering successful IT and business outcomes.<br>
+                The DevOps Engineer will be a member of PulteGroup's Application Delivery team and will report to an IT Manager. The role will be based out of PulteGroup's corporate office extension in Tempe, AZ or corporate office in Atlanta, GA and will require collaboration and partnership with team members across multiple functions/locations.  The DevOps Engineer position will be required to work within flexible working hours with periodic evening hours necessary for deployment, support, and on-call activities.<br>
+                As a DevOps Engineer, you will be responsible for the tools, frameworks, automation, processes, and services that enable the delivery of software and cloud environments to the end user.  Success in this role is defined by achieving fast and simple processes that measurably accelerate Dev to Prod cycle time.<br>
+                We will help you attain your career development goals with training, mentoring, and growth opportunities.<br>
+                We believe success starts with having the right people -- those who have the right attitude and aptitude. We seek out goal-oriented professionals who are creators, leaders, and pioneers. We value diversity in our workforce. By bringing together people with different backgrounds, thoughts, and life experiences, we create a competitive advantage.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Administers the tools, processes, and automation supporting cloud environments, Source Code Management, Configuration Management, Continuous Integration, Continuous Delivery, Continuous Testing, and Continuous Monitoring.</li>
+                    <li>Provides direction to junior members on and off the team.</li>
+                    <li>Writes automation script/code to improve build/release tools, systems, and processes.</li>
+                    <li>Creates and maintains automated Continuous Integration/Continuous Delivery (CI/CD) pipelines.</li>
+                    <li>Ensures project source materials are maintained in the version control system, including source code and attendant files and ensures that appropriate quality checks and approvals are adhered to prior to merges and promotions.  Oversees branching strategies within the source control system.</li>
+                    <li>Works collaboratively with teammates, management, and application development teams to automate and continuously improve software deployment processes. Provides mentoring to application development teams on DevOps standards and processes.  Leads and participates in projects to establish and evolve DevOps practices and implement improvement plans.  Leverages understanding of IT processes and technology to provide analysis and recommendations for solutions.</li>
+                    <li>Works closely with application development teams to ensure development processes follow established standards.</li>
+                    <li>Identifies, recommends, and helps implement the optimal cloud resources for executing workloads and optimizing cloud spend.</li>
+                    <li>Automates the creation and maintenance of cloud resources and environments via scripting and templates.</li>
+                    <li>Ensures the overall quality of environments.</li>
+                    <li>Works with 3rd party vendors to resolve configuration and deployment issues with off-the-shelf software.</li>
+                    <li>Supports and facilitates auditing and reporting of deployment activity.</li>
+                    <li>Participates in planning activities for scheduled or emergency software releases. Executes Staging and Production release activities.</li>
+                    <li>Monitors CI/CD tools and processes. Troubleshoots and provides quick resolution to production related issues.  Works cross functionally to resolve issues.  Communicates status /solutions of these issues to appropriate stakeholders.</li>
+                    <li>May work non-business hours and weekends to avoid impact to production systems.</li>
+                    <li>Leads and participates in projects to establish and evolve DevOps practices, tools, and processes.</li>
+                    <li>Updates job knowledge by studying state-of-the-art tools and best practices related to DevOps and other Information Technologies; participating in educational opportunities; reading professional publications; maintaining personal networks; participating in professional organizations.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>5 + years in a DevOps Engineer, Configuration Management Engineer, or similar role</li>
+                    <li>Highly proficient in the development and maintenance of CI/CD pipelines using Azure DevOps and PowerShell</li>
+                    <li>Intimate knowledge of scripting languages and common configuration file formats (PowerShell, xml, json, Shell, etc.)</li>
+                    <li>Experience with source control systems and branching strategy (Azure DevOps, Git)</li>
+                    <li>3 + years' experience implementing, configuring, maintaining, and monitoring Azure PaaS cloud resources including App Services, Application Insights, Automation Accounts, Data Factory, Function Apps, Key Vault, Logic Apps, Runbooks, SQL Server/DB/Elastic Pool, Storage, Traffic Manager</li>
+                    <li>Experience with configuration and deployment of applications on Windows Servers, SQL Databases, IIS, Windows Services and Scheduled Tasks</li>
+                    <li>A bachelor's degree in Computer Information Systems, a field related to the position, or a combination of related education and work experience in DevOps Engineering, or Configuration management equivalent to four years</li>
+                    <li>Preferred: Microsoft Certified Azure Administrator Associate or Microsoft Certified DevOps Engineer Expert</li>
                 </ul>
                 `
             },
@@ -1743,26 +1774,46 @@ const JOB_PATHS = [
                 name: "DevOps Engineer III",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                PulteGroup, Inc. is looking to expand our team of talented Information Technology professionals. We have an excellent reputation as a great place to work with an open, collaborative culture. We are looking for an experienced DevOps Engineer to join our Application Delivery team. We seek a highly motivated individual with a proven track-record of delivering successful IT and business outcomes.<br>
+                The DevOps Engineer will be a member of PulteGroup's Application Delivery team and will report to an IT Manager. The role will be based out of PulteGroup's corporate office extension in Tempe, AZ or corporate office in Atlanta, GA and will require collaboration and partnership with team members across multiple functions/locations.  The DevOps Engineer position will be required to work within flexible working hours with periodic evening hours necessary for deployment, support, and on-call activities.<br>
+                As a DevOps Engineer, you will be responsible for the tools, frameworks, automation, processes, and services that enable the delivery of software and cloud environments to the end user.  Success in this role is defined by achieving fast and simple processes that measurably accelerate Dev to Prod cycle time.<br>
+                We will help you attain your career development goals with training, mentoring, and growth opportunities.<br>
+                We believe success starts with having the right people -- those who have the right attitude and aptitude. We seek out goal-oriented professionals who are creators, leaders, and pioneers. We value diversity in our workforce. By bringing together people with different backgrounds, thoughts, and life experiences, we create a competitive advantage.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Administers the tools, processes, and automation supporting cloud environments, Source Code Management, Configuration Management, Continuous Integration, Continuous Delivery, Continuous Testing, and Continuous Monitoring.</li>
+                    <li>Provides technical leadership, direction, and mentoring to junior members on and off the team.</li>
+                    <li>Designs/Develops enterprise level automation script/code to improve build/release tools, systems, and processes.</li>
+                    <li>Creates and maintains automated Continuous Integration/Continuous Delivery (CI/CD) pipelines.</li>
+                    <li>Ensures project source materials are maintained in the version control system, including source code and attendant files and ensures that appropriate quality checks and approvals are adhered to prior to merges and promotions.  Plans and oversees branching strategies within the source control system.</li>
+                    <li>Works collaboratively with teammates, management, and application development teams to automate and continuously improve software deployment processes. Provides mentoring to application development teams on DevOps standards and processes.  Leads and participates in projects to establish and evolve DevOps practices and implement improvement plans.  Leverages understanding of IT processes and technology to provide analysis and recommendations for solutions.</li>
+                    <li>Works closely with application development teams to ensure development processes follow established standards.</li>
+                    <li>Identifies, recommends, and helps implement the optimal cloud resources for executing workloads and optimizing cloud spend.</li>
+                    <li>Automates the creation and maintenance of cloud resources and environments via scripting and templates.</li>
+                    <li>Ensures the overall quality of environments.</li>
+                    <li>Leads efforts with 3rd party vendors to resolve configuration and deployment issues with off-the-shelf software.</li>
+                    <li>Supports and facilitates auditing and reporting of deployment activity.</li>
+                    <li>Participates in planning activities for scheduled or emergency software releases. Executes Staging and Production release activities.</li>
+                    <li>Monitors CI/CD tools and processes. Troubleshoots and provides quick resolution to production related issues.  Works cross functionally to resolve issues.  Communicates status /solutions of these issues to appropriate stakeholders.</li>
+                    <li>May work non-business hours and weekends to avoid impact to production systems.</li>
+                    <li>Strategizes, leads, and participates in projects to establish and evolve DevOps practices, tools, and processes. Identifies and leads process improvement efforts within the team and cross-functionally within the department.</li>
+                    <li>Updates job knowledge by studying state-of-the-art tools and best practices related to DevOps and other Information Technologies; participating in educational opportunities; reading professional publications; maintaining personal networks; participating in professional organizations.</li>
+                    <li>Researches new technologies that will improve efficiency and effectiveness.</li>
+                    <li>Contributes to strategic vision for DevOps and IT department.  Leads, champions, implements new strategies for the team and department.</li>
+                    <li>Serves as the technical subject matter expert for DevOps and is the point of escalation for the most technically challenging issues and tasks.</li>
+                    <li>Contributes to and champions PulteGroup Development best practices, methods, standards, and processes.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>10 + years in a DevOps Engineer, Configuration Management Engineer, or similar role</li>
+                    <li>Expertise in the development and maintenance of CI/CD pipelines using Azure DevOps and PowerShell</li>
+                    <li>Expert knowledge of scripting languages and common configuration file formats (PowerShell, xml, json, Shell, etc.)</li>
+                    <li>Expertise with source control systems and branching strategy (Azure DevOps, Git)</li>
+                    <li>5 + years' experience implementing, configuring, maintaining, and monitoring Azure PaaS cloud resources including App Services, Application Insights, Automation Accounts, Data Factory, Function Apps, Key Vault, Logic Apps, Runbooks, SQL Server/DB/Elastic Pool, Storage, Traffic Manager</li>
+                    <li>Experience with configuration and deployment of applications on Windows Servers, SQL Databases, IIS, Windows Services and Scheduled Tasks</li>
+                    <li>A bachelor's degree in Computer Information Systems, a field related to the position, or a combination of related education and work experience in DevOps Engineering, or Configuration management equivalent to four years</li>
+                    <li>Preferred: Microsoft Certified Azure Administrator Associate or Microsoft Certified DevOps Engineer Expert</li>
                 </ul>
                 `
             }

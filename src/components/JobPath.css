@@ -10,7 +10,7 @@
     background-color: #2d5688;
     border-radius: 5px;
     color: white;
-    cursor: pointer;
+    cursor:default;
     display: grid;
     height: 60px;
     padding: 0 10px 0 10px;
@@ -19,9 +19,9 @@
     width: 150px;
 }
 
-.job-path.hovered {
+/* .job-path.hovered {
     background-color: #28708e;
-}
+} */
 
 .job-path-description {
     background-color: rgba(0, 0, 0, 0.8);
