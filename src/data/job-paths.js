@@ -7,9 +7,9 @@ const JOB_PATHS = [
                 name: "IT Supervisor",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Plans, directs, & coordinates activities pertaining to functional area team members in supporting roles for the IT department.  <br>
+                Plans, directs, & coordinates activities pertaining to functional area team members in supporting roles for the IT department.<br>
                 Primary function is to provide day-to-day coaching of team members.<br>
-                Assists functional Manager with people management & staffing, & may lead internal team initiatives. <br>
+                Assists functional Manager with people management & staffing, & may lead internal team initiatives.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -37,7 +37,7 @@ const JOB_PATHS = [
                 <h3>Class Concept / Competency</h3>
                 Plans, directs, & coordinates activities pertaining to functional area team members in engineering & development roles for the IT department.<br>
                 Provides day-to-day coaching of team members.<br>
-                Assists functional Manager with people management & staffing & leads team initiatives. <br>
+                Assists functional Manager with people management & staffing & leads team initiatives.<br>
                 Assigns & assures team members meet commitments that impact key milestones for critical business projects.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
@@ -68,7 +68,7 @@ const JOB_PATHS = [
                 <h3>Class Concept / Competency</h3>
                 Contributes to information technology strategies by managing staff & directing the implementation of technological solutions across diverse teams.<br>
                 Recommends & implements information technology strategies, policies, & procedures within functional unit; participates in implementation across functional units.<br>
-                A key focus of this position is managing & developing staff & unit budget to achieve strategic department & team goals. <br>
+                A key focus of this position is managing & developing staff & unit budget to achieve strategic department & team goals.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -100,7 +100,7 @@ const JOB_PATHS = [
                 <h3>Class Concept / Competency</h3>
                 Maintains information technology strategies by managing staff & researching & directing the implementation of technologically strategic solutions across technically diverse teams.<br>
                 Recommends & implements information technology strategies, policies, & procedures by evaluating organization outcomes identifying problems, evaluating trends, & anticipating requirements.<br>
-                The senior management position is defined by the depth & complexity of the areas of responsibility along with the strategic responsibilities to the company's success. <br>
+                The senior management position is defined by the depth & complexity of the areas of responsibility along with the strategic responsibilities to the company's success.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -130,9 +130,9 @@ const JOB_PATHS = [
                 name: "IT Director",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                With the CIO & business partners, develops long-term systems & strategic growth plans. Develops & executes vision & strategy aligned with the company's business goals. <br>
+                With the CIO & business partners, develops long-term systems & strategic growth plans. Develops & executes vision & strategy aligned with the company's business goals.<br>
                 Responsible for capitalizing on opportunities for solutions-oriented thinking with a focus on collaborative processes & relationship structures.<br>
-                Plans & manages the full portfolio of IT & business process work. <br>
+                Plans & manages the full portfolio of IT & business process work.<br>
                 Acts as a visionary & proactively assists in defining direction for future projects.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
@@ -247,7 +247,7 @@ const JOB_PATHS = [
                 name: "IT Admin Specialist I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Entry-level specialist is responsible for processing, coding, and analyzing vendor invoices and maintaining excellent relationships with internal customers and vendors.  May also include office management responsibilities. <br>
+                Entry-level specialist is responsible for processing, coding, and analyzing vendor invoices and maintaining excellent relationships with internal customers and vendors.  May also include office management responsibilities.<br>
                 Incumbent at this level has a knowledge of fundamental concepts, practices, and procedures.  Works under direct supervision and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
@@ -270,7 +270,7 @@ const JOB_PATHS = [
                 description: `
                 <h3>Class Concept / Competency</h3>
                 Responsible for processing, coding, analyzing and auditing vendor invoices and maintaining excellent relationships with internal customers and vendors.<br>
-                Incumbent at this level is a learned professional responsible for resolving problems of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited supervision. Technical guidance required for unusual and/or complex problems/projects. <br>
+                Incumbent at this level is a learned professional responsible for resolving problems of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited supervision. Technical guidance required for unusual and/or complex problems/projects.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -292,7 +292,7 @@ const JOB_PATHS = [
                 description: `
                 <h3>Class Concept / Competency</h3>
                 Responsible for the provisioning of data and voice connectivity and other products and services for the company.<br>
-                Incumbent at this level is a learned professional responsible for resolving problems of moderate to severe difficulty through analyzing possible solutions utilizing standard procedures. Works under limited supervision. Technical guidance required for unusual and/or complex problems/projects. <br>
+                Incumbent at this level is a learned professional responsible for resolving problems of moderate to severe difficulty through analyzing possible solutions utilizing standard procedures. Works under limited supervision. Technical guidance required for unusual and/or complex problems/projects.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -315,8 +315,8 @@ const JOB_PATHS = [
                 name: "IT Contracts Specialist",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Responsible for the IT function of contract administration and vendor management. <br>
-                Incumbent at this level is a technical expert in a critical service.  Work is often driven by strategic business or strategic internal projects.  Guidance generally provided through members of the Leadership team. <br>
+                Responsible for the IT function of contract administration and vendor management.<br>
+                Incumbent at this level is a technical expert in a critical service.  Work is often driven by strategic business or strategic internal projects.  Guidance generally provided through members of the Leadership team.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -435,10 +435,10 @@ const JOB_PATHS = [
                 name: "Project Manager",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Responsible for planning, organizing, facilitating and managing the activities of a project team throughout the solution delivery lifecycle. <br>
+                Responsible for planning, organizing, facilitating and managing the activities of a project team throughout the solution delivery lifecycle.<br>
                 Is an educated professional responsible for managing a portfolio of projects of moderate complexity and enterprise-scale impact.  Organizes and monitors teams of medium to large size.<br>
-                Works under limited supervision. Professional guidance required for unusual or complex problems or projects. <br>
-                Has enough technical insight to be considered a credible leader for development or engineering teams, to facilitate resolution of product issues, and to evaluate complex project issues and risks. <br>
+                Works under limited supervision. Professional guidance required for unusual or complex problems or projects.<br>
+                Has enough technical insight to be considered a credible leader for development or engineering teams, to facilitate resolution of product issues, and to evaluate complex project issues and risks.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -475,11 +475,11 @@ const JOB_PATHS = [
                 name: "Sr. Project Manager",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Responsible for planning, organizing, facilitating and managing a broad range of highly complex and enterprise-scale projects and/or solution implementations. <br>
-                Contribution is felt across a wide array of project and program efforts within the IT department. Individual is known and recognized within the department for breadth of knowledge and contributions. <br>
-                Is an educated and highly experienced professional competent to work at the highest professional level. Manages a portfolio of projects and programs involving medium and large teams. <br>
-                Considers the current and future business environment in the planning and delivery of a project/solution. Brings enterprise-level perspective to planning and organization of projects.  Normally works under general guidance without direct oversight. <br>
-                Has considerable technical insight and is considered a credible leader for development or engineering teams, to facilitate resolution of product issues, and to evaluate complex project issues and risks.  <br>
+                Responsible for planning, organizing, facilitating and managing a broad range of highly complex and enterprise-scale projects and/or solution implementations.<br>
+                Contribution is felt across a wide array of project and program efforts within the IT department. Individual is known and recognized within the department for breadth of knowledge and contributions.<br>
+                Is an educated and highly experienced professional competent to work at the highest professional level. Manages a portfolio of projects and programs involving medium and large teams.<br>
+                Considers the current and future business environment in the planning and delivery of a project/solution. Brings enterprise-level perspective to planning and organization of projects.  Normally works under general guidance without direct oversight.<br>
+                Has considerable technical insight and is considered a credible leader for development or engineering teams, to facilitate resolution of product issues, and to evaluate complex project issues and risks.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -523,8 +523,8 @@ const JOB_PATHS = [
                 name: "Systems Analyst I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Responsible for functional requirements of applications, websites, databases and systems, providing second-level technical support, testing and defect management.  Participates in team initiatives while simultaneously participating in multiple IT project efforts. <br>
-                Incumbent at this level has a knowledge of fundamental concepts, practices, and procedures. Works under guidance and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters. <br>
+                Responsible for functional requirements of applications, websites, databases and systems, providing second-level technical support, testing and defect management.  Participates in team initiatives while simultaneously participating in multiple IT project efforts.<br>
+                Incumbent at this level has a knowledge of fundamental concepts, practices, and procedures. Works under guidance and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -550,8 +550,8 @@ const JOB_PATHS = [
                 name: "Systems Analyst II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Leads and provides systems analysis for moderately complex applications, websites, databases and systems, defect management and provides second-level technical support.  Leads team initiatives and participates simultaneously participating in multiple IT project efforts. <br>
-                Incumbent at this level is a learned professional responsible for systems analysis on projects of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited guidance.  Technical guidance required for unusual and/or complex problems/projects. <br>
+                Leads and provides systems analysis for moderately complex applications, websites, databases and systems, defect management and provides second-level technical support.  Leads team initiatives and participates simultaneously participating in multiple IT project efforts.<br>
+                Incumbent at this level is a learned professional responsible for systems analysis on projects of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited guidance.  Technical guidance required for unusual and/or complex problems/projects.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -582,8 +582,8 @@ const JOB_PATHS = [
                 name: "Systems Analyst III",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Leads and provides systems analysis for highly complex applications, programs, websites, databases, and systems.  Contribution is felt across a breath of development efforts within the Department. Individual is known and recognized within the Department for breadth of contributions. <br>
-                Incumbent at this level is an experienced professional competent to work at the highest technical level. Considers the current and future business environment in the design and maintenance of systems. Brings Enterprise level perspective to the business process and system functions.  Normally works under general guidance. <br>
+                Leads and provides systems analysis for highly complex applications, programs, websites, databases, and systems.  Contribution is felt across a breath of development efforts within the Department. Individual is known and recognized within the Department for breadth of contributions.<br>
+                Incumbent at this level is an experienced professional competent to work at the highest technical level. Considers the current and future business environment in the design and maintenance of systems. Brings Enterprise level perspective to the business process and system functions.  Normally works under general guidance.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -710,8 +710,8 @@ const JOB_PATHS = [
                 name: "QA Engineer I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Responsible for verifying applications, websites, databases and systems, defect management and providing second-level technical support.  Participates in team initiatives while simultaneously participating in multiple IT project efforts.  <br>
-                Incumbent at this level has a knowledge of fundamental quality assurance concepts, practices, and procedures. Works under guidance and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters. <br>
+                Responsible for verifying applications, websites, databases and systems, defect management and providing second-level technical support.  Participates in team initiatives while simultaneously participating in multiple IT project efforts.<br>
+                Incumbent at this level has a knowledge of fundamental quality assurance concepts, practices, and procedures. Works under guidance and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -736,8 +736,8 @@ const JOB_PATHS = [
                 name: "QA Engineer II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Leads and provides quality assurance for moderately complex applications, websites, databases and systems, defect management and provides second-level technical support.  Leads team initiatives and participates simultaneously participating in multiple IT project efforts.  <br>
-                Incumbent at this level is a learned professional responsible for quality assurance on projects of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited guidance. Technical guidance required for unusual and/or complex problems/projects. <br>
+                Leads and provides quality assurance for moderately complex applications, websites, databases and systems, defect management and provides second-level technical support.  Leads team initiatives and participates simultaneously participating in multiple IT project efforts.<br>
+                Incumbent at this level is a learned professional responsible for quality assurance on projects of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited guidance. Technical guidance required for unusual and/or complex problems/projects.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -766,8 +766,8 @@ const JOB_PATHS = [
                 name: "QA Engineer III",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Responsible for developing, coding, testing, debugging, and documenting quality automation tests for highly complex applications, programs, websites, databases, and systems.  Contribution is felt across a breath of development efforts within the Department. Individual is known and recognized within the Department for breadth of contributions. <br>
-                Incumbent at this level is an experienced professional competent to work at the highest technical level. Considers the current and future business environment in the design and maintenance of systems. Brings Enterprise level perspective to quality solutions.  Normally works under general guidance. <br>
+                Responsible for developing, coding, testing, debugging, and documenting quality automation tests for highly complex applications, programs, websites, databases, and systems.  Contribution is felt across a breath of development efforts within the Department. Individual is known and recognized within the Department for breadth of contributions.<br>
+                Incumbent at this level is an experienced professional competent to work at the highest technical level. Considers the current and future business environment in the design and maintenance of systems. Brings Enterprise level perspective to quality solutions.  Normally works under general guidance.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -828,9 +828,9 @@ const JOB_PATHS = [
                 name: "Software Developer I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Responsible for developing, coding, testing, debugging, and documenting applications, programs, websites, databases, and systems. <br>
-                Performs work associated with the design, implementation or delivery of processes, programs and policies using specialized knowledge and skills typically acquired through advanced education and work experience. <br>
-                Works independently with general supervision. Problems faced are difficult but typically not complex. May influence others within the job area through explanation of facts, policies, and practices. <br>
+                Responsible for developing, coding, testing, debugging, and documenting applications, programs, websites, databases, and systems.<br>
+                Performs work associated with the design, implementation or delivery of processes, programs and policies using specialized knowledge and skills typically acquired through advanced education and work experience.<br>
+                Works independently with general supervision. Problems faced are difficult but typically not complex. May influence others within the job area through explanation of facts, policies, and practices.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -853,11 +853,11 @@ const JOB_PATHS = [
                 name: "Software Developer II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Responsible for developing, coding, testing, debugging, and documenting moderately complex applications, programs, websites, databases, and systems. <br>
-                Manages or performs work associated with the design, implementation or delivery of processes, programs and policies using advanced knowledge of job area typically obtained through advanced education and work experience. <br>
-                Responsibilities may include managing projects or processes, coaching, and reviewing the work of lower-level professionals. <br>
-                May lead projects or project steps within a broader project.  May direct the work of other lower-level professionals and act as a resource for colleagues with less experience. <br>
-                Individual may serve as a subject matter expert for certain areas of the application, for technologies and integrations, or business processes. <br>
+                Responsible for developing, coding, testing, debugging, and documenting moderately complex applications, programs, websites, databases, and systems.<br>
+                Manages or performs work associated with the design, implementation or delivery of processes, programs and policies using advanced knowledge of job area typically obtained through advanced education and work experience.<br>
+                Responsibilities may include managing projects or processes, coaching, and reviewing the work of lower-level professionals.<br>
+                May lead projects or project steps within a broader project.  May direct the work of other lower-level professionals and act as a resource for colleagues with less experience.<br>
+                Individual may serve as a subject matter expert for certain areas of the application, for technologies and integrations, or business processes.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -886,11 +886,11 @@ const JOB_PATHS = [
                 name: "Software Developer III",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Responsible for developing, coding, testing, debugging, and documenting a broad range of highly complex applications, programs, websites, databases, and systems. <br>
-                Most of the time is spent managing the design, implementation or delivery of processes, programs and policies using advanced knowledge of job area typically obtained through advanced education and work experience.  <br>
-                Responsibilities typically include managing large projects or processes with limited oversight from manager, coaching, reviewing, and delegating work to lower-level professionals.  <br>
-                Leads development efforts within team, has expert understanding of critical software development efforts across team, and supports the software development function within the organization. Considers the current and future business environment of systems bringing enterprise-level perspective to designs and solutions. <br>
-                Contribution is felt across a breath of development efforts within the solutions delivery team. Individual is often utilized as a subject matter expert. <br>
+                Responsible for developing, coding, testing, debugging, and documenting a broad range of highly complex applications, programs, websites, databases, and systems.<br>
+                Most of the time is spent managing the design, implementation or delivery of processes, programs and policies using advanced knowledge of job area typically obtained through advanced education and work experience.<br>
+                Responsibilities typically include managing large projects or processes with limited oversight from manager, coaching, reviewing, and delegating work to lower-level professionals.<br>
+                Leads development efforts within team, has expert understanding of critical software development efforts across team, and supports the software development function within the organization. Considers the current and future business environment of systems bringing enterprise-level perspective to designs and solutions.<br>
+                Contribution is felt across a breath of development efforts within the solutions delivery team. Individual is often utilized as a subject matter expert.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -922,9 +922,9 @@ const JOB_PATHS = [
                 name: "Senior Technologist",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Serves as the top-level technical expert for mission-critical, strategically focused applications, programs, websites, databases, and systems.  Responsible for developing, coding, testing, debugging, and documenting these systems. <br>
+                Serves as the top-level technical expert for mission-critical, strategically focused applications, programs, websites, databases, and systems.  Responsible for developing, coding, testing, debugging, and documenting these systems.<br>
                 Individual is a thought leader and technical expert in a critical service or technology and has comprehensive knowledge in specific or multiple functional/technical areas.<br>
-                Work is often driven by strategic business or strategic internal projects.  Guidance generally provided through members of the Executive and/or Architecture team. <br>
+                Work is often driven by strategic business or strategic internal projects.  Guidance generally provided through members of the Executive and/or Architecture team.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -959,9 +959,9 @@ const JOB_PATHS = [
                 name: "IT Learning Specialist I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Responsible for the development of training plans, determining instructional strategies and methods and developing learning materials. <br>
+                Responsible for the development of training plans, determining instructional strategies and methods and developing learning materials.<br>
                 Participates in team initiatives while simultaneously participating in multiple IT efforts.<br>
-                Has working knowledge of instructional strategy, techniques and design.  Strong written and verbal communication skills.  Ability to engage users and provide a valuable learning experience. <br>
+                Has working knowledge of instructional strategy, techniques and design.  Strong written and verbal communication skills.  Ability to engage users and provide a valuable learning experience.<br>
                 Works under direct supervision and routine assignments.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
@@ -986,11 +986,11 @@ const JOB_PATHS = [
                 name: "IT Learning Specialist II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Responsible for leading the development of training plans, determining instructional strategies and methods and developing learning materials. <br>
+                Responsible for leading the development of training plans, determining instructional strategies and methods and developing learning materials.<br>
                 Leads team initiatives while simultaneously participating in multiple IT efforts.<br>
-                Learned professional of instructional strategy, techniques and design.  Strong written and verbal communication skills. <br>
+                Learned professional of instructional strategy, techniques and design.  Strong written and verbal communication skills.<br>
                 Ability to engage users and provide a valuable learning experience and to mentor others on these methods.<br>
-                Works under limited supervision.  Guidance required for more complex assignments. <br>
+                Works under limited supervision.  Guidance required for more complex assignments.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -1020,8 +1020,8 @@ const JOB_PATHS = [
                 Responsible for leading the development of training plans, determining instructional strategies and methods and developing learning materials.<br>
                 Anticipates, creates and leads team initiatives while simultaneously participating in multiple IT efforts. Individual is known and recognized within the department for breadth of contributions.<br>
                 Experienced professional of instructional strategy, techniques and design.  Strong written and verbal communication skills with all levels of the organization.<br>
-                Ability to engage users and provide a valuable learning experience and to mentor others on these methods.  Strong leadership skills. <br>
-                Works under general guidance without supervision. <br>
+                Ability to engage users and provide a valuable learning experience and to mentor others on these methods.  Strong leadership skills.<br>
+                Works under general guidance without supervision.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -1145,8 +1145,8 @@ const JOB_PATHS = [
                 name: "IT Security Engineer I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Responsible for engineering, technical support, and technology integration services for all aspects of security-related infrastructure and software. Participates in team initiatives while simultaneously participating in multiple IT security project implementations. <br>
-                Has knowledge of fundamental security concepts, practices, and procedures. Works under direct supervision and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters.  <br>
+                Responsible for engineering, technical support, and technology integration services for all aspects of security-related infrastructure and software. Participates in team initiatives while simultaneously participating in multiple IT security project implementations.<br>
+                Has knowledge of fundamental security concepts, practices, and procedures. Works under direct supervision and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -1172,8 +1172,8 @@ const JOB_PATHS = [
                 name: "IT Security Engineer II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Leads and provides engineering, second level technical support, and technology integration services for all aspects of security-related infrastructure and software. Leads team initiatives and participates simultaneously in multiple IT security project implementations. <br>
-                Has knowledge of advanced security concepts, practices, and procedures. Learned professional responsible for resolving security problems of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited supervision. Technical guidance required for unusual and/or complex problems/projects. <br>
+                Leads and provides engineering, second level technical support, and technology integration services for all aspects of security-related infrastructure and software. Leads team initiatives and participates simultaneously in multiple IT security project implementations.<br>
+                Has knowledge of advanced security concepts, practices, and procedures. Learned professional responsible for resolving security problems of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited supervision. Technical guidance required for unusual and/or complex problems/projects.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -1205,8 +1205,8 @@ const JOB_PATHS = [
                 name: "IT Security Engineer III",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Leads and provides engineering, advanced level technical support for the most complex issues, and technology integration services for security aspects of enterprise-class datacenter server, storage and virtualization infrastructure.  Leads team initiatives and participates simultaneously in multiple IT security project implementations. <br>
-                Has knowledge of advanced security concepts, practices, and procedures. Experienced professional competent to work at the highest technical level. Considers the current and future business environment in the design and upgrade of systems. Brings Enterprise level security perspective to designs and solutions.  Normally works under general guidance without technical supervision. <br>
+                Leads and provides engineering, advanced level technical support for the most complex issues, and technology integration services for security aspects of enterprise-class datacenter server, storage and virtualization infrastructure.  Leads team initiatives and participates simultaneously in multiple IT security project implementations.<br>
+                Has knowledge of advanced security concepts, practices, and procedures. Experienced professional competent to work at the highest technical level. Considers the current and future business environment in the design and upgrade of systems. Brings Enterprise level security perspective to designs and solutions.  Normally works under general guidance without technical supervision.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -1361,8 +1361,8 @@ const JOB_PATHS = [
                 name: "Infrastructure Engineer I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Responsible for engineering, second-level technical support, and technology integration services for all aspects of enterprise-class datacenter server, storage and virtualization infrastructure.  Participates in team initiatives while simultaneously participating in multiple IT project implementations. <br>
-                Has knowledge of fundamental concepts, practices, and procedures. Works under direct supervision and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters. <br>
+                Responsible for engineering, second-level technical support, and technology integration services for all aspects of enterprise-class datacenter server, storage and virtualization infrastructure.  Participates in team initiatives while simultaneously participating in multiple IT project implementations.<br>
+                Has knowledge of fundamental concepts, practices, and procedures. Works under direct supervision and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -1451,8 +1451,8 @@ const JOB_PATHS = [
                 name: "Network Engineer I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Responsible for engineering, second-level technical support, and technology integration services for moderately complex network infrastructure including wide area networks (WAN), local area networks (LAN), secure wireless networks, firewalls, load balancers, and related devices. Participates in team initiatives while simultaneously participating in multiple IT project implementations. <br>
-                Has a knowledge of fundamental concepts, practices, and procedures. Works under direct supervision and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters. <br>
+                Responsible for engineering, second-level technical support, and technology integration services for moderately complex network infrastructure including wide area networks (WAN), local area networks (LAN), secure wireless networks, firewalls, load balancers, and related devices. Participates in team initiatives while simultaneously participating in multiple IT project implementations.<br>
+                Has a knowledge of fundamental concepts, practices, and procedures. Works under direct supervision and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -1475,7 +1475,7 @@ const JOB_PATHS = [
                 name: "Network Engineer II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Leads and provides engineering, second-level technical support, and technology integration services for moderately complex to complex network infrastructure including wide area networks (WAN), local area networks (LAN), secure wireless networks, firewalls, load balancers and related devices. Leads team initiatives and participates simultaneously in multiple IT project implementations. <br>
+                Leads and provides engineering, second-level technical support, and technology integration services for moderately complex to complex network infrastructure including wide area networks (WAN), local area networks (LAN), secure wireless networks, firewalls, load balancers and related devices. Leads team initiatives and participates simultaneously in multiple IT project implementations.<br>
                 Learned professional responsible for resolving problems of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited supervision. Technical guidance required for unusual and/or complex problems/projects.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
@@ -1504,7 +1504,7 @@ const JOB_PATHS = [
                 name: "Network Engineer III",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Leads and provides engineering, advanced technical support, and technology integration services for the most complex network infrastructure including wide area networks (WAN), local area networks (LAN), secure wireless networks, firewalls, load balancers and related devices. Leads team initiatives and participates simultaneously in multiple IT project implementations. <br>
+                Leads and provides engineering, advanced technical support, and technology integration services for the most complex network infrastructure including wide area networks (WAN), local area networks (LAN), secure wireless networks, firewalls, load balancers and related devices. Leads team initiatives and participates simultaneously in multiple IT project implementations.<br>
                 Experienced professional competent to work at the highest technical level. Considers the current and future business environment in the design and upgrade of systems. Brings Enterprise level perspective to designs and solutions.  Normally works under general guidance without technical supervision.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
@@ -1540,7 +1540,7 @@ const JOB_PATHS = [
                 name: "Support Technician",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Provides entry-level customer support to end users on technical problem resolution & request management.  <br>
+                Provides entry-level customer support to end users on technical problem resolution & request management.<br>
                 Processes provisioning & de-provisioning of user access to systems, utilizing tracking & documented approval procedures.<br>
                 Maintains knowledgebase documentation & trains end users on resolving common issues.<br>
                 <br>
@@ -1572,12 +1572,12 @@ const JOB_PATHS = [
                 name: "Support Engineer I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Provides second-level customer support & system administration assistance to end users on technical problem resolution & request management. <br>
-                Serves as primary subject matter expert on at least one Pulte application, supporting other team members. <br>
+                Provides second-level customer support & system administration assistance to end users on technical problem resolution & request management.<br>
+                Serves as primary subject matter expert on at least one Pulte application, supporting other team members.<br>
                 Participates in IT project implementations.<br>
                 Maintains user access tracking & approval procedures.<br>
                 Provides expertise on client workstation hardware & software management.<br>
-                Provides leadership & mentoring to Support Technicians. <br>
+                Provides leadership & mentoring to Support Technicians.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -1607,14 +1607,14 @@ const JOB_PATHS = [
                 name: "Support Engineer II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Leads third-level customer support & provides system administration assistance to other support personnel on technical problem resolution & request management. <br>
+                Leads third-level customer support & provides system administration assistance to other support personnel on technical problem resolution & request management.<br>
                 Serves as primary subject matter expert on multiple Pulte applications.<br>
                 Serves as liaison to IT & business teams to ensure standard audit controls are developed and implemented in applications and systems.<br>
                 Leads team initiatives & participates simultaneously in multiple IT projects.<br>
                 Sets strategy on client workstation hardware & software management & plans implementations.<br>
                 Provides leadership & mentoring to less senior team members including SE I's.<br>
                 Leads efforts in performing regular system/application audit as outlined in annual audit plans. Documents and communicates audit findings with internal/external audit teams.<br>
-                Provides technical leadership & support of enterprise systems in scope for the TSC. <br>
+                Provides technical leadership & support of enterprise systems in scope for the TSC.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -1650,8 +1650,8 @@ const JOB_PATHS = [
                 description: `
                 <h3>Class Concept / Competency</h3>
                 Responsible for engineering, second-level technical support, technology integration services for all aspects of Field server, O/S, hardware, storage, and network and virtualization infrastructure.<br>
-                Participates in team initiatives while simultaneously participating in multiple IT/Business project efforts. <br>
-                Incumbent at this level has a knowledge of fundamental concepts, practices, and procedures. Works under limited supervision and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters. <br>
+                Participates in team initiatives while simultaneously participating in multiple IT/Business project efforts.<br>
+                Incumbent at this level has a knowledge of fundamental concepts, practices, and procedures. Works under limited supervision and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -1677,10 +1677,10 @@ const JOB_PATHS = [
                 name: "Field Support Engineer II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                Leads and provides engineering, third-level technical support, and technology integration services for all aspects of Field server, O/S, hardware, storage, network and virtualization infrastructure. <br>
-                Leads team initiatives and participates simultaneously in multiple IT/Business project efforts. <br>
-                Incumbent at this level is a learned professional responsible for resolving problems of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited supervision.  <br>
-                Technical guidance required for unusual and/or complex problems/projects. <br>
+                Leads and provides engineering, third-level technical support, and technology integration services for all aspects of Field server, O/S, hardware, storage, network and virtualization infrastructure.<br>
+                Leads team initiatives and participates simultaneously in multiple IT/Business project efforts.<br>
+                Incumbent at this level is a learned professional responsible for resolving problems of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited supervision.<br>
+                Technical guidance required for unusual and/or complex problems/projects.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
@@ -1705,7 +1705,7 @@ const JOB_PATHS = [
                 description: `
                 <h3>Class Concept / Competency</h3>
                 Leads and provides engineering, advanced level technical support for the most complex issues, and technology integration services for all aspects of Field server, O/S, hardware, storage, network and virtualization infrastructure.<br>
-                Provides strategy, guidance and direction to team initiatives that support both Business and IT priorities. Participates simultaneously in multiple project efforts. <br>
+                Provides strategy, guidance and direction to team initiatives that support both Business and IT priorities. Participates simultaneously in multiple project efforts.<br>
                 Incumbent at this level is an experienced professional competent to work at the highest technical level. In depth knowledge of business processes and practices. Considers the current and future business environment in the design and upgrade of systems and future technology. Provides Enterprise level perspective to designs and solutions.  Normally works under general guidance of team lead and manager without technical supervision.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
