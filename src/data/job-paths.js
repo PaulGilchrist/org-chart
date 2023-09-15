@@ -1,63 +1,64 @@
 const JOB_PATHS = [
     {
         name: "Leadership",
-        description: "This is a paragraph explaining Leadership",
+        description: "",
         jobs: [
             {
                 name: "IT Supervisor",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
-                <br>
+                Plans, directs, & coordinates activities pertaining to functional area team members in supporting roles for the IT department.  <br>
+                Primary function is to provide day-to-day coaching of team members.<br>
+                Assists functional Manager with people management & staffing, & may lead internal team initiatives. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Leads internal team initiatives of low-to-moderate complexity: develops informal project plans & manages risk.</li>
+                    <li>Supports recruiting with Manager. May assist in identifying resource needs & crafting job postings; may work with recruiters on vetting candidates; participates in interview process.</li>
+                    <li>Provides first-level supervisory oversight of support team members.</li>
+                    <li>Works with individuals to develop goals in line with department & team objectives.</li>
+                    <li>Provides input to mid-year & year-end performance reviews. Assists Manager with delivering reviews to team members. Monitors day-to-day performance to Performance Improvement Plans when one exists.</li>
+                    <li>Facilitates meetings to effectively build consensus or solve issues across functional &/or geographical areas.</li>
+                    <li>Approves & tracks PTO/Vacation requests in accordance with HR policies.</li>
+                    <li>Retains system access & performs technical support duties within functional area.</li>
                </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bachelor’s degree in Computer Information Systems or equivalent experience.</li>
+                    <li>Minimum of 3 years of experience in at least two distinct technical areas.</li>
+                    <li>Working knowledge of a variety of systems & technical specialties.</li>
+                    <li>These minimum requirements may also include additional criteria specific to the position.</li>
                 </ul>
-                `            },
+                `
+            },
             {
                 name: "IT Team Lead",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Plans, directs, & coordinates activities pertaining to functional area team members in engineering & development roles for the IT department.<br>
+                Provides day-to-day coaching of team members.<br>
+                Assists functional Manager with people management & staffing & leads team initiatives. <br>
+                Assigns & assures team members meet commitments that impact key milestones for critical business projects.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Leads internal team initiatives of moderate-to-high complexity: develops formal project plans & manages risk.</li>
+                    <li>Supports recruiting with Manager. Assists in identifying resource needs & crafting job postings; may work with recruiters on vetting candidates; participates in interview process including making recommendations on hiring.</li>
+                    <li>Works with individuals to develop goals in line with department & team objectives.</li> 
+                    <li>Writes mid-year & year-end performance review for Manager's approval & delivers review to team members with Manager. Drafts Performance Improvement Plans as needed for Manager approval & monitors performance to plan.</li>
+                    <li>Leads problem management teams comprised of senior engineering resources in solving high-complexity, high-impact enterprise issues</li>
+                    <li>Approves & tracks PTO/Vacation requests in accordance with HR policies.</li>
+                    <li>May retain system access & perform limited technical support &/or development duties within functional area.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bachelor’s degree in Computer Information Systems or equivalent experience.</li>
+                    <li>Minimum of 3 years of experience in at least two distinct technical areas, at least one directly related to engineering or development.</li>
+                    <li>Minimum of 2 years of leadership experience.</li>
+                    <li>Working knowledge of a variety of systems & technical specialties.</li>
+                    <li>Working knowledge of software development lifecycle &/or project management methodologies.</li>
+                    <li>Broad understanding of business practices & operations.</li>
+                    <li>These minimum requirements may also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -65,26 +66,31 @@ const JOB_PATHS = [
                 name: "IT Manager",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Contributes to information technology strategies by managing staff & directing the implementation of technological solutions across diverse teams.<br>
+                Recommends & implements information technology strategies, policies, & procedures within functional unit; participates in implementation across functional units.<br>
+                A key focus of this position is managing & developing staff & unit budget to achieve strategic department & team goals. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>This position manages work across multiple information systems & projects.</li>
+                    <li>Recruits, selects, coaches, & develops team leadership, engineering, & support staff within the IT department. Manages professional growth & develop plans.</li>
+                    <li>Works with senior leadership to develop team goals in line with department objectives.</li>
+                    <li>Conducts performance & development reviews per HR guidelines. Takes corrective actions, including Performance Improvement Plans & terminations, when necessary.</li>
+                    <li>May lead problem management teams comprised of senior engineering resources in solving high-complexity, high-impact enterprise issues.</li>
+                    <li>Translates & champions IT strategy to functional unit.</li>
+                    <li>Achieves financial objectives by forecasting requirements, preparing an annual budget, scheduling expenditures, analyzing variances & initiating corrective action within functional unit.</li>
+                    <li>Maintains organization's effectiveness & efficiency by supporting strategic plans for implementing & supporting information technologies.</li>
+                    <li>Assists with defining enterprise IT policies & procedures to ensure the protection of information assets.</li>
+                    <li>Approves & tracks PTO/Vacation requests in accordance with HR policies.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bachelor’s degree in Computer Information Systems or equivalent experience.</li>
+                    <li>Minimum of 3 years of progressive technical experience.</li>
+                    <li>Minimum of 5 years of progressive leadership experience.</li>
+                    <li>Thorough knowledge of software development lifecycle & project management methodologies.</li>
+                    <li>Broad understanding of business practices & operations.</li>
+                    <li>These minimum requirements may also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -92,36 +98,31 @@ const JOB_PATHS = [
                 name: "IT Sr. Manager / BRM",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <ul>
-                    <li>Serve as the IT liaison for each department in an organization. A BRM understands all business processes and provides technology guidance to ensure maximum ROI for IT business strategy requirements.</li>
-                    <li>Facilitate and serve as a lead for the planning and execution of initiatives to enable the organization to achieve objectives through the effective use of technology.</li>
-                    <li>Communicate decisions, priorities and relevant project information to appropriate levels of staff regarding service requests, projects and initiatives.</li>
-                    <li>With the CIO & business partners, develops long-term systems & strategic growth plans. Develops & executes vision & strategy aligned with the company's business goals.</li>
-                    <li>Plans & manages a respective portfolio of IT & business process work based on discipline.</li>
-                    <li>Recruits, selects, coaches, & develops team leadership, engineering, & support staff within vertical team. Assists with managing professional growth & development plans along with Functional Manager.</li>
-                </ul>
+                Maintains information technology strategies by managing staff & researching & directing the implementation of technologically strategic solutions across technically diverse teams.<br>
+                Recommends & implements information technology strategies, policies, & procedures by evaluating organization outcomes identifying problems, evaluating trends, & anticipating requirements.<br>
+                The senior management position is defined by the depth & complexity of the areas of responsibility along with the strategic responsibilities to the company's success. <br>
+                <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li>Builds and fosters business partnerships and maintains on-going business relationships.  Serves as the point of contact for business area relationships.</li>
-                    <li>Translates high-level strategy and product direction into business solutions.</li>
-                    <li>Ensures business objectives & operating model are understood & factored into IT strategy.</li>
-                    <li>Defines key strategies for the IT delivery model of an organization.</li>
-                    <li>Works with financial leadership on annual IT budgets and forecasts.</li>
-                    <li>Works with architects to understand new technology trends and forecast future IT infrastructure requirements.</li>
-                    <li>Leads stakeholder (internal and, when appropriate, external) business planning and strategy meetings.</li>
+                    <li>This position manages multiple strategic information systems & projects for the organization & ensures the continuous delivery & operation of integrated information systems.</li>
+                    <li>Recruits, selects, coaches & develops team leadership, project managers, architects, engineering & support staff within the IT department. Manages professional growth & develop plans. Mentors other leaders within the department.</li>
                     <li>Works with senior leadership to develop team goals in line with department objectives.</li>
-                    <li>Conducts performance & development reviews per HR guidelines.  Takes corrective actions, including Performance Improvement Plans & terminations, when necessary.</li>
-                    <li>Translates & champions IT functional strategy to vertical discipline.</li>
+                    <li>Conducts performance & development reviews per HR guidelines.  Takes corrective actions, including Performance Improvement Plans & terminations, when necessary.</li>
+                    <li>Remains continuously aware of major business, technical, & infrastructure issues, & provides guidance & support.</li>
+                    <li>Interacts with business stakeholders, IT Architects, Project Managers & leadership groups to ensure outcomes align with & enable business strategy.</li>
+                    <li>Achieves financial objectives by forecasting requirements, preparing an annual budget, scheduling expenditures, analyzing variances & initiating corrective action within functional unit.</li>
+                    <li>Contributes to the planning of the overall IT budget.</li>
+                    <li>Maintains organization's effectiveness & efficiency by defining, delivering, & supporting strategic plans for implementing information technologies.</li>
+                    <li>Collaborates with business stakeholders to define & maintain enterprise IT policies & procedures to ensure the protection of information assets.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>Bachelor's degree in Information Technology, Business or a related field, or equivalent work experience.</li>
-                    <li>Experience successfully leading large, complex projects and/or in business/IT consulting/management roles.</li>
-                    <li>Minimum of 3 years of progressive technical experience.</li>
-                    <li>Minimum of 5 years of progressive leadership experience. Thorough knowledge of software development lifecycle & project management methodologies.</li>
-                    <li>Broad understanding of business practices & operations.</li>
+                    <li>Bachelor’s degree in Computer Information Systems or equivalent experience.</li>
+                    <li>Minimum of 5 years of progressive technical experience.</li>
+                    <li>Minimum of 10 years of progressive leadership experience, managing in a large department.</li>
+                    <li>Thorough knowledge of software development lifecycle & project management methodologies.</li>
+                    <li>In-depth understanding of business practices & operations.</li>
                     <li>These minimum requirements may also include additional criteria specific to the position.</li>
-                    <li>Ability to work autonomously.</li>
                 </ul>
                 `
             },
@@ -129,26 +130,29 @@ const JOB_PATHS = [
                 name: "IT Director",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                With the CIO & business partners, develops long-term systems & strategic growth plans. Develops & executes vision & strategy aligned with the company’s business goals. <br>
+                Responsible for capitalizing on opportunities for solutions-oriented thinking with a focus on collaborative processes & relationship structures.<br>
+                Plans & manages the full portfolio of IT & business process work. <br>
+                Acts as a visionary & proactively assists in defining direction for future projects.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Plans, directs, & coordinates activities pertaining to technology & business unit projects on an enterprise-wide level.</li>
+                    <li>Recruits, selects & develops managers (functional &/or business relationship), project managers, architects & other leadership roles within the IT department.</li>
+                    <li>Remains continuously aware of major business, technical, & infrastructure issues, & provides guidance & support.</li>
+                    <li>Provides strategic input to the Executive Management team for the technology direction for business functions & geographic business segments. Ensures business objectives & operating model are understood & factored into IT strategy.</li>
+                    <li>Develops & oversees annual & ongoing IT budgets for functional business units within the department.</li>
+                    <li>Establishes alignment between business objectives, IT objectives, financials, & organization.</li>
+                    <li>Ensures the currency, quality, & integrity of information & provides consistency across the organization.</li>
+                    <li>Integrates knowledge & trends from the market into a strategy with elements that will benefit PulteGroup.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bachelor’s degree in Computer Information Systems or equivalent experience.</li>
+                    <li>Minimum of 12 years of progressive leadership experience, managing in a large department.</li>
+                    <li>Thorough knowledge of IT governance & IT operations with a clear understanding of how an IT organization operates in alignment with business processes.</li>
+                    <li>Superior ability to clearly articulate strategic benefits & value propositions to Executive Management.</li>
+                    <li>These minimum requirements may also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -210,7 +214,7 @@ const JOB_PATHS = [
     },
     {
         name: "Administration",
-        description: "This is a paragraph explaining Administration",
+        description: "",
         jobs: [
             {
                 name: "Business Administrator",
@@ -248,15 +252,15 @@ const JOB_PATHS = [
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li>Serves as a specialist in the area of processing orders, invoices and inquiries for one or more of the following: cellular, data, voice, computers, equipment, maintenance, etc. </li>
-                    <li>May handle daily office-related responsibilities. </li>
-                    <li>Handles external vendor inquiries and internal questions regarding process or status. </li>
+                    <li>Serves as a specialist in the area of processing orders, invoices and inquiries for one or more of the following: cellular, data, voice, computers, equipment, maintenance, etc.</li>
+                    <li>May handle daily office-related responsibilities.</li>
+                    <li>Handles external vendor inquiries and internal questions regarding process or status.</li>
                     <li>Research billing disputes with external and internal accounting departments for successful resolution.</li>
                     <li>With guidance, participates in process improvement efforts within the Finance & Administration team.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>Minimum of 1 – 3 years processing invoices preferred.  Knowledge of auditing and accounting principles required. </li>
+                    <li>Minimum of 1 – 3 years processing invoices preferred.  Knowledge of auditing and accounting principles required.</li>
                     <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
@@ -270,9 +274,9 @@ const JOB_PATHS = [
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li>Serves as the lead in the area of processing orders, invoices and inquiries for one or more of the following:  cellular, data, voice, computers, equipment, maintenance, etc. </li>
+                    <li>Serves as the lead in the area of processing orders, invoices and inquiries for one or more of the following:  cellular, data, voice, computers, equipment, maintenance, etc.</li>
                     <li>Handles external vendor inquiries and internal questions regarding process or status.</li>
-                    <li>Research billing disputes with external and internal accounting departments for successful resolution. </li>
+                    <li>Research billing disputes with external and internal accounting departments for successful resolution.</li>
                     <li>May provide training and technical guidance to less experienced staff.</li>
                     <li>Participates in process improvement efforts within the Finance & Administration team.</li>
                 </ul>
@@ -293,17 +297,17 @@ const JOB_PATHS = [
                 <h3>Typical Responsibilities</h3>
                 <ul>
                     <li>Serves as an expert in the area of provisioning services for the field and for the company.</li>
-                    <li>Coordinates installs, moves and disconnects with local and national vendors for all data and voice services for Pulte sites. </li>
+                    <li>Coordinates installs, moves and disconnects with local and national vendors for all data and voice services for Pulte sites.</li>
                     <li>Create assets and maintains them in our tracking software.</li>
                     <li>Partner with Field SE’s to ensure services and products are ordered and installed in a timely fashion.</li>
-                    <li>Technical knowledge of support applications. </li>
-                    <li>Participates in process improvement efforts within the Finance & Administration team. </li>
+                    <li>Technical knowledge of support applications.</li>
+                    <li>Participates in process improvement efforts within the Finance & Administration team.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>A bachelor’s degree in a field related to the position or a combination of related education and work experience in the area of provisioning for 3 -5 years. </li>
-                    <li>Prefer knowledge of procurement and asset tracking applications. </li>
-                    <li>These minimum requirements will also include additional criteria specific to the position. </li>
+                    <li>A bachelor’s degree in a field related to the position or a combination of related education and work experience in the area of provisioning for 3 -5 years.</li>
+                    <li>Prefer knowledge of procurement and asset tracking applications.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -316,8 +320,8 @@ const JOB_PATHS = [
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li>Responsible for monitoring, negotiating and tracking all functions of IT contract administration. </li>
-                    <li>Perform reviews of the following:  purchases, software licenses, professional services, and maintenance and support agreements. </li>
+                    <li>Responsible for monitoring, negotiating and tracking all functions of IT contract administration.</li>
+                    <li>Perform reviews of the following:  purchases, software licenses, professional services, and maintenance and support agreements.</li>
                     <li>Work with Legal to ensure adherence to language and terms.</li>
                     <li>Track and project costs for maintenance agreements to ensure the costs are correctly recorded in the IT budget.</li>
                     <li>Manage relationships with external vendors.</li>
@@ -425,7 +429,7 @@ const JOB_PATHS = [
     },
     {
         name: "Project Management",
-        description: "This is a paragraph explaining Project Management",
+        description: "",
         jobs: [
             {
                 name: "Project Manager",
@@ -485,7 +489,7 @@ const JOB_PATHS = [
     },
     {
         name: "Systems Analyst",
-        description: "This is a paragraph explaining Systems Analyst",
+        description: "",
         jobs: [
             {
                 name: "Systems Analyst I",
@@ -661,7 +665,7 @@ const JOB_PATHS = [
     },
     {
         name: "QA Engineer",
-        description: "This is a paragraph explaining QA Engineer",
+        description: "",
         jobs: [
             {
                 name: "QA Engineer I",
@@ -748,7 +752,7 @@ const JOB_PATHS = [
     },
     {
         name: "Software Development",
-        description: "This is a paragraph explaining Software Development",
+        description: "",
         jobs: [
             {
                 name: "Junior Developer",
@@ -889,32 +893,32 @@ const JOB_PATHS = [
     },
     {
         name: "Training",
-        description: "This is a paragraph explaining Training",
+        description: "",
         jobs: [
             {
                 name: "IT Learning Specialist I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for the development of training plans, determining instructional strategies and methods and developing learning materials. <br>
+                Participates in team initiatives while simultaneously participating in multiple IT efforts.<br>
+                Has working knowledge of instructional strategy, techniques and design.  Strong written and verbal communication skills.  Ability to engage users and provide a valuable learning experience. <br>
+                Works under direct supervision and routine assignments.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Defines project goals and objectives based on the training plan. </li>
+                    <li>Participates on project teams. </li>
+                    <li>Develops learning materials, including self-guided training material, instructor-led presentations and web-based e-learning modules and documentation. </li>
+                    <li>Keeps learning materials up to date.</li>
+                    <li>Coordinates scheduling and manages logistics of all learning sessions and materials in alignment with the training plans. </li>
+                    <li>Delivers training across markets per project and implementation schedules. </li>
+                    <li>Provides support for all training related questions.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor’s degree in a field related to the position.</li>
+                    <li>Minimum of 2 years’ experience required in a related role. </li>
+                    <li>These minimum requirements will also include additional criteria specific to the position. </li>
                 </ul>
                 `
             },
@@ -922,53 +926,65 @@ const JOB_PATHS = [
                 name: "IT Learning Specialist II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for leading the development of training plans, determining instructional strategies and methods and developing learning materials. <br>
+                Leads team initiatives while simultaneously participating in multiple IT efforts.<br>
+                Learned professional of instructional strategy, techniques and design.  Strong written and verbal communication skills. <br>
+                Ability to engage users and provide a valuable learning experience and to mentor others on these methods.<br>
+                Works under limited supervision.  Guidance required for more complex assignments. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Defines project goals and objectives based on the training plan.  Participates on project teams.</li>
+                    <li>Develops learning materials, including self-guided training material, instructor-led presentations and web-based e-learning modules and documentation.</li>
+                    <li>Keeps learning materials up to date. </li>
+                    <li>Reviews materials for less experienced Learning Specialists. </li>
+                    <li>Coordinates scheduling and manages logistics of all learning sessions and materials in alignment with the training plans. </li>
+                    <li>Delivers training across markets per project and implementation schedules.</li>
+                    <li>Provides support for all training related questions.</li>
+                    <li>Assesses training effectiveness and user competency, identifies gaps and recommends solutions for continued improvement. </li>
+                    <li>Utilizes complex and modern tools, technologies and methods. </li>
+                    <li>Participates in creating and updating of team best practices, methods, standards and processes. </li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor’s degree in a field related to the position. </li>
+                    <li>Minimum of 5 years’ experience required in a related role. </li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
             {
-                name: "IT Learning Specialist II",
+                name: "IT Learning Specialist III",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for leading the development of training plans, determining instructional strategies and methods and developing learning materials.<br>
+                Anticipates, creates and leads team initiatives while simultaneously participating in multiple IT efforts. Individual is known and recognized within the department for breadth of contributions.<br>
+                Experienced professional of instructional strategy, techniques and design.  Strong written and verbal communication skills with all levels of the organization.<br>
+                Ability to engage users and provide a valuable learning experience and to mentor others on these methods.  Strong leadership skills. <br>
+                Works under general guidance without supervision. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Defines project goals and objectives based on the training plan. </li>
+                    <li>Participates on project teams. Reviews training plans for less experienced Learning Specialists. </li>
+                    <li>Develops learning materials, including self-guided training material, instructor-led presentations and web-based e-learning modules and documentation.</li>
+                    <li>Keeps learning materials up to date. </li>
+                    <li>Reviews materials for less experienced Learning Specialists.</li>
+                    <li>Coordinates scheduling and manages logistics of all learning sessions and materials in alignment with the training plans.  </li>
+                    <li>Delivers training across markets per project and implementation schedules. </li>
+                    <li>Provides support for all training related questions. </li>
+                    <li>Assesses training effectiveness and user competency, identifies gaps and recommends solutions for continued improvement. </li>
+                    <li>Assists less experienced Learning Specialists with this task.</li>
+                    <li>Leads evaluation and selection of training tools, technologies and methods that meet present and future business needs.</li>
+                    <li>Serves as an expert of these tools, technologies and methods. </li>
+                    <li>Facilitates and champions team best practices, methods, standards and processes. </li>
+                    <li>Train, coach and mentor other Learning Specialists.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor’s degree in a field related to the position. </li>
+                    <li>Minimum of 10 years’ experience required in a related role.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position. </li>
                 </ul>
                 `
             }
@@ -976,7 +992,7 @@ const JOB_PATHS = [
     },
     {
         name: "Implementation",
-        description: "This is a paragraph explaining Implementation",
+        description: "",
         jobs: [
             {
                 name: "IT Implementation Specialist I",
@@ -1036,7 +1052,7 @@ const JOB_PATHS = [
     },
     {
         name: "Security",
-        description: "This is a paragraph explaining Security",
+        description: "",
         jobs: [
             {
                 name: "IT Security Analyst",
@@ -1204,7 +1220,7 @@ const JOB_PATHS = [
     },
     {
         name: "Operations / Infrastructure Engineering",
-        description: "This is a paragraph explaining Operations / Infrastructure Engineering",
+        description: "",
         jobs: [
             {
                 name: "Operations Technician",
@@ -1271,12 +1287,12 @@ const JOB_PATHS = [
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li>Daily support of private and public cloud infrastructure, including enterprise servers, email systems, Storage Area Networks (SAN), and Network-Attached Storage (NAS). </li>
+                    <li>Daily support of private and public cloud infrastructure, including enterprise servers, email systems, Storage Area Networks (SAN), and Network-Attached Storage (NAS).</li>
                     <li>Deploys virtualization solutions using private, public, and hybrid cloud technologies.</li>
                     <li>Implements proactive management and monitoring solutions using enterprise-class tools.</li>
                     <li>Builds high availability solutions for the Company’s key infrastructure, including public-facing web infrastructure in a demilitarized zone (DMZ).</li>
                     <li>Implements disaster recovery solutions which includes the company's backup and recovery solution architectures.</li>
-                    <li>Optimizes moderately complex infrastructure components to meet performance requirements. </li>
+                    <li>Optimizes moderately complex infrastructure components to meet performance requirements.</li>
                     <li>Participates in internal initiatives for the implementation, use, and improvement of processes, procedures, guidelines, and metrics for infrastructure systems.</li>
                     <li>Serves as escalation point for resolving moderately complex infrastructure issues. Gathers diagnostics and troubleshoots infrastructure issues as needed. Participates in rotational on-call support.</li>
                 </ul>
@@ -1300,17 +1316,17 @@ const JOB_PATHS = [
                     <li>Daily support of private and public cloud infrastructure, including enterprise servers, email systems, Storage Area Networks (SAN), and Network-Attached Storage (NAS).</li>
                     <li>Builds, deploys, and maintains enterprise-class datacenter server and storage infrastructure.</li>
                     <li>Plans and deploys virtualization solutions using private, public, and hybrid cloud technologies.</li>
-                    <li>Plans and implements proactive management and monitoring solutions using enterprise-class tools. </li>
+                    <li>Plans and implements proactive management and monitoring solutions using enterprise-class tools.</li>
                     <li>Plans and builds high availability solutions for the Company’s key infrastructure, including public-facing web infrastructure in a demilitarized zone (DMZ).</li>
                     <li>Plans and implements disaster recovery solutions which includes the company's backup and recovery solution architectures.</li>
-                    <li>Optimizes complex infrastructure components to meet performance requirements. </li>
+                    <li>Optimizes complex infrastructure components to meet performance requirements.</li>
                     <li>Provides technical leadership and mentoring to less senior members on and off the team.</li>
-                    <li>Leads internal initiatives for the implementation, use, and improvement of processes, procedures, guidelines, and metrics for Infrastructure systems. </li>
-                    <li>Serves as escalation point for resolving moderately complex to complex infrastructure issues. Gathers diagnostics and troubleshoots infrastructure issues as needed. Participates in rotational on-call support. </li>
+                    <li>Leads internal initiatives for the implementation, use, and improvement of processes, procedures, guidelines, and metrics for Infrastructure systems.</li>
+                    <li>Serves as escalation point for resolving moderately complex to complex infrastructure issues. Gathers diagnostics and troubleshoots infrastructure issues as needed. Participates in rotational on-call support.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required. </li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required.</li>
                     <li>Minimum of 5 years of experience in deploying and supporting enterprise-class infrastructure in a large datacenter and/or cloud environment.</li>
                     <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
@@ -1331,18 +1347,18 @@ const JOB_PATHS = [
                     <li>Serves as a technical subject matter expert through all phases of infrastructure support and project implementation.</li>
                     <li>Leads the selection and evaluation of core infrastructure solutions that meet present and future business needs.</li>
                     <li>Contributes to and champions PulteGroup Infrastructure best practices, methods, standards, and processes.</li>
-                    <li>Designs and implements proactive management and monitoring solutions using enterprise-class tools. </li>
+                    <li>Designs and implements proactive management and monitoring solutions using enterprise-class tools.</li>
                     <li>Designs and builds high-availability solutions for the Company’s key infrastructure, including public-facing web infrastructure in a demilitarized zone (DMZ).</li>
                     <li>Designs and implements disaster recovery solutions which includes the company's backup and recovery solution architectures.</li>
-                    <li>Optimizes highly complex infrastructure components to meet performance requirements. </li>
-                    <li>Provides technical leadership, guidance, and mentoring to less senior members on and off the team. </li>
+                    <li>Optimizes highly complex infrastructure components to meet performance requirements.</li>
+                    <li>Provides technical leadership, guidance, and mentoring to less senior members on and off the team.</li>
                     <li>Serves as escalation point for the most complex infrastructure issues. Gathers diagnostics and troubleshoots as needed. Participates in rotational on-call support.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
                     <li>Bachelor's degree in Computer Information Systems or equivalent experience required.</li>
-                    <li>Minimum of 10 years of experience in deploying and supporting enterprise-class infrastructure in a large datacenter and/or cloud environment.  </li>
-                    <li>These minimum requirements will also include additional criteria specific to the position. </li>
+                    <li>Minimum of 10 years of experience in deploying and supporting enterprise-class infrastructure in a large datacenter and/or cloud environment.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             }
@@ -1350,7 +1366,7 @@ const JOB_PATHS = [
     },
     {
         name: "Network Engineering",
-        description: "This is a paragraph explaining Network Engineering",
+        description: "",
         jobs: [
             {
                 name: "Network Engineer I",
@@ -1437,7 +1453,7 @@ const JOB_PATHS = [
     },
     {
         name: "Customer Support",
-        description: "This is a paragraph explaining Customer Support",
+        description: "",
         jobs: [
             {
                 name: "Support Technician",
@@ -1524,7 +1540,7 @@ const JOB_PATHS = [
     },
     {
         name: "Field Support",
-        description: "This is a paragraph explaining Field Support",
+        description: "",
         jobs: [
             {
                 name: "Field Support Engineer I",
@@ -1536,8 +1552,8 @@ const JOB_PATHS = [
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li>Uses basic knowledge of technology and desktop operating systems to provide and implement developed solutions for division-specific needs. Plans, coordinates and schedules all aspects of IT for new community startups, moves and closures.  </li>
-                    <li>Works with senior technical team members to optimize local infrastructure components to meet performance requirements. </li>
+                    <li>Uses basic knowledge of technology and desktop operating systems to provide and implement developed solutions for division-specific needs. Plans, coordinates and schedules all aspects of IT for new community startups, moves and closures.</li>
+                    <li>Works with senior technical team members to optimize local infrastructure components to meet performance requirements.</li>
                     <li>Participates in department-wide projects & the support turnover process. Interfaces with all levels of the division-based hierarchy & all IT functional groups. Must provide exceptional customer service & translate technical concepts for non-technical audiences.</li>
                     <li>Participates in internal initiatives for the implementation, use, and improvement of processes, procedures, guidelines, and metrics for infrastructure systems.</li>
                     <li>Manages ordering & disposal of assets including compliance with Legal Holds processes. Responds to escalated alerts & cases from the Technical Support Center (TSC) & Data Center Operations (DCO) teams to resolve simple to moderately complex issues. With guidance, performs site-based troubleshooting & diagnostics gathering as needed. Participates in on-call support.</li>
@@ -1546,11 +1562,11 @@ const JOB_PATHS = [
                 <h3>Education / Experience</h3>
                 <ul>
                     <li>Bachelor's degree in Computer Information Systems or equivalent experience required.</li>
-                    <li>Experience in developing client &/or supplier relationships is preferred.  </li>
-                    <li>Minimum of 3 years of experience in supporting Microsoft products & related technologies.  </li>
-                    <li>Basic knowledge of troubleshooting server, wide area networking (WAN), local area networking (LAN) & virtual infrastructure preferred.  </li>
-                    <li>Ability to travel up to 40% required.  </li>
-                    <li>Relevant certifications such as Microsoft Certified Professional (MCP) preferred. </li>
+                    <li>Experience in developing client &/or supplier relationships is preferred.</li>
+                    <li>Minimum of 3 years of experience in supporting Microsoft products & related technologies.</li>
+                    <li>Basic knowledge of troubleshooting server, wide area networking (WAN), local area networking (LAN) & virtual infrastructure preferred.</li>
+                    <li>Ability to travel up to 40% required.</li>
+                    <li>Relevant certifications such as Microsoft Certified Professional (MCP) preferred.</li>
                 </ul>
                 `
             },
@@ -1568,16 +1584,16 @@ const JOB_PATHS = [
                     <li>All Engineer I responsibilities</li>
                     <li>Demonstrates an intermediate level of technical knowledge  and a fundamental understanding of key business processes in their market and the enterprise </li>
                     <li>Tests & identifies workstation & laptop models for service catalog; manages ordering & disposal of assets including compliance with Legal Holds processes. Responds to escalated alerts & cases from the Technical Support Center (TSC) & Data Center Operations (DCO) teams to resolve moderately complex to complex issues. Performs advanced, site-based troubleshooting & diagnostics gathering as needed. Participates in on-call support.</li>
-                    <li>Provides technical leadership & mentoring to Field Server Engineer I's, Operation Technicians & Support Technicians. Leads internal initiatives for the implementation & improvement of field-based processes. Serves as the primary integration point among centralized corporate infrastructure processes & field locations. Identifies support processes that can be migrated from the Field support team to the TSC. </li>
+                    <li>Provides technical leadership & mentoring to Field Server Engineer I's, Operation Technicians & Support Technicians. Leads internal initiatives for the implementation & improvement of field-based processes. Serves as the primary integration point among centralized corporate infrastructure processes & field locations. Identifies support processes that can be migrated from the Field support team to the TSC.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required. </li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required.</li>
                     <li>Minimum of 2 years of experience in developing client &/or supplier relationships.</li>
-                    <li>Minimum of 5 years of experience in supporting Microsoft servers & related technologies. </li>
-                    <li>Intermediate knowledge of troubleshooting server, wide area networking (WAN), local area networking (LAN) & virtual infrastructure strongly preferred. </li>
+                    <li>Minimum of 5 years of experience in supporting Microsoft servers & related technologies.</li>
+                    <li>Intermediate knowledge of troubleshooting server, wide area networking (WAN), local area networking (LAN) & virtual infrastructure strongly preferred.</li>
                     <li>Ability to travel up to 40% required.</li>
-                    <li>Relevant certifications such as Microsoft Certified Systems Engineer (MCSE) preferred. </li>
+                    <li>Relevant certifications such as Microsoft Certified Systems Engineer (MCSE) preferred.</li>
                 </ul>
                 `
             },
@@ -1601,9 +1617,9 @@ const JOB_PATHS = [
                     <li>Cohesively plans and develops strategies with IT, Business Verticals and Market Leadership using business knowledge and technical experience</li>
                     <li>Serves as a business and technical subject matter expert through all phases of Field Services support and project implementation.</li>
                     <li>Leads the selection and evaluation of core Field Services solutions that meet present and future business needs.</li>
-                    <li>Contributes to and champions PulteGroup Field Services best practices, methods, standards, and processes. </li>
+                    <li>Contributes to and champions PulteGroup Field Services best practices, methods, standards, and processes.</li>
                     <li>Provides technical leadership, guidance, and mentoring to less senior members on and off the team.</li>
-                    <li>Responds to escalated system monitor alerts to resolve the most complex Field infrastructure issues. Performs advanced troubleshooting and diagnostics gathering as needed. Participates in rotational on-call support. </li>
+                    <li>Responds to escalated system monitor alerts to resolve the most complex Field infrastructure issues. Performs advanced troubleshooting and diagnostics gathering as needed. Participates in rotational on-call support.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
@@ -1611,11 +1627,11 @@ const JOB_PATHS = [
                     <li>Minimum of 5 years of experience in developing client &/or supplier relationships.</li>
                     <li>Minimum of 7 years of experience in home building environment.</li>
                     <li>Advanced knowledge of troubleshooting servers, wide area networking (WAN), local area networking (LAN) & virtual infrastructures required.</li>
-                    <li>Ability to travel up to 40% required. </li>
+                    <li>Ability to travel up to 40% required.</li>
                     <li>Minimum of 10 years of experience in supporting Microsoft servers, software and related technologies.</li>
                     <li>Minimum of 4 years of experience designing and implementing solutions using technical and business knowledge.</li>
-                    <li>Able to demonstrate advanced working knowledge of Field, IT and Business processes, policies and practices. </li>
-                    <li>Microsoft Certified Systems Engineer (MCSE) certification and PMP preferred. </li>
+                    <li>Able to demonstrate advanced working knowledge of Field, IT and Business processes, policies and practices.</li>
+                    <li>Microsoft Certified Systems Engineer (MCSE) certification and PMP preferred.</li>
                 </ul>
                 `
             }
@@ -1623,7 +1639,7 @@ const JOB_PATHS = [
     },
     {
         name: "Database Administration",
-        description: "This is a paragraph explaining Database Administration",
+        description: "",
         jobs: [
             {
                 name: "DBA I",
@@ -1683,7 +1699,7 @@ const JOB_PATHS = [
     },
     {
         name: "Configuration Management",
-        description: "This is a paragraph explaining Configuration Management",
+        description: "",
         jobs: [
             {
                 name: "DevOps Engineer I",
@@ -1821,7 +1837,7 @@ const JOB_PATHS = [
     },
     {
         name: "Release Coordination",
-        description: "This is a paragraph explaining Release Coordination",
+        description: "",
         jobs: [
             {
                 name: "Release Coordinator I",
