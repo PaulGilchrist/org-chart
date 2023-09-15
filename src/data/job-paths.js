@@ -243,26 +243,21 @@ const JOB_PATHS = [
                 name: "IT Admin Specialist I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Entry-level specialist is responsible for processing, coding, and analyzing vendor invoices and maintaining excellent relationships with internal customers and vendors.  May also include office management responsibilities. <br>
+                Incumbent at this level has a knowledge of fundamental concepts, practices, and procedures.  Works under direct supervision and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Serves as a specialist in the area of processing orders, invoices and inquiries for one or more of the following: cellular, data, voice, computers, equipment, maintenance, etc. </li>
+                    <li>May handle daily office-related responsibilities. </li>
+                    <li>Handles external vendor inquiries and internal questions regarding process or status. </li>
+                    <li>Research billing disputes with external and internal accounting departments for successful resolution.</li>
+                    <li>With guidance, participates in process improvement efforts within the Finance & Administration team.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Minimum of 1 – 3 years processing invoices preferred.  Knowledge of auditing and accounting principles required. </li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -270,26 +265,21 @@ const JOB_PATHS = [
                 name: "IT Admin Specialist II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for processing, coding, analyzing and auditing vendor invoices and maintaining excellent relationships with internal customers and vendors.<br>
+                Incumbent at this level is a learned professional responsible for resolving problems of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited supervision. Technical guidance required for unusual and/or complex problems/projects. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Serves as the lead in the area of processing orders, invoices and inquiries for one or more of the following:  cellular, data, voice, computers, equipment, maintenance, etc. </li>
+                    <li>Handles external vendor inquiries and internal questions regarding process or status.</li>
+                    <li>Research billing disputes with external and internal accounting departments for successful resolution. </li>
+                    <li>May provide training and technical guidance to less experienced staff.</li>
+                    <li>Participates in process improvement efforts within the Finance & Administration team.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor’s degree in a field related to the position or a combination of related education and work experience in the area of processing invoices for 3 – 5 years, knowledge of auditing and accounting.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -297,26 +287,23 @@ const JOB_PATHS = [
                 name: "IT Provisioning Specialist",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for the provisioning of data and voice connectivity and other products and services for the company.<br>
+                Incumbent at this level is a learned professional responsible for resolving problems of moderate to severe difficulty through analyzing possible solutions utilizing standard procedures. Works under limited supervision. Technical guidance required for unusual and/or complex problems/projects. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Serves as an expert in the area of provisioning services for the field and for the company.</li>
+                    <li>Coordinates installs, moves and disconnects with local and national vendors for all data and voice services for Pulte sites. </li>
+                    <li>Create assets and maintains them in our tracking software.</li>
+                    <li>Partner with Field SE’s to ensure services and products are ordered and installed in a timely fashion.</li>
+                    <li>Technical knowledge of support applications. </li>
+                    <li>Participates in process improvement efforts within the Finance & Administration team. </li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor’s degree in a field related to the position or a combination of related education and work experience in the area of provisioning for 3 -5 years. </li>
+                    <li>Prefer knowledge of procurement and asset tracking applications. </li>
+                    <li>These minimum requirements will also include additional criteria specific to the position. </li>
                 </ul>
                 `
             },
@@ -324,26 +311,22 @@ const JOB_PATHS = [
                 name: "IT Contracts Specialist",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for the IT function of contract administration and vendor management. <br>
+                Incumbent at this level is a technical expert in a critical service.  Work is often driven by strategic business or strategic internal projects.  Guidance generally provided through members of the Leadership team. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Responsible for monitoring, negotiating and tracking all functions of IT contract administration. </li>
+                    <li>Perform reviews of the following:  purchases, software licenses, professional services, and maintenance and support agreements. </li>
+                    <li>Work with Legal to ensure adherence to language and terms.</li>
+                    <li>Track and project costs for maintenance agreements to ensure the costs are correctly recorded in the IT budget.</li>
+                    <li>Manage relationships with external vendors.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor’s degree in a field related to the position or a combination of related education and work experience in the area of IT contract management.</li>
+                    <li>Minimum of 5 plus years’ experience working with contracts with proven ability to interpret complex policy, legal and contractual or regulatory procurement requirements.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -1229,6 +1212,7 @@ const JOB_PATHS = [
                 <h3>Class Concept / Competency</h3>
                 <br>
                 <br>
+                <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
                     <li></li>
@@ -1256,6 +1240,7 @@ const JOB_PATHS = [
                 <h3>Class Concept / Competency</h3>
                 <br>
                 <br>
+                <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
                     <li></li>
@@ -1281,26 +1266,25 @@ const JOB_PATHS = [
                 name: "Infrastructure Engineer I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for engineering, second-level technical support, and technology integration services for all aspects of enterprise-class datacenter server, storage and virtualization infrastructure.  Participates in team initiatives while simultaneously participating in multiple IT project implementations. <br>
+                Has knowledge of fundamental concepts, practices, and procedures. Works under direct supervision and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Daily support of private and public cloud infrastructure, including enterprise servers, email systems, Storage Area Networks (SAN), and Network-Attached Storage (NAS). </li>
+                    <li>Deploys virtualization solutions using private, public, and hybrid cloud technologies.</li>
+                    <li>Implements proactive management and monitoring solutions using enterprise-class tools.</li>
+                    <li>Builds high availability solutions for the Company’s key infrastructure, including public-facing web infrastructure in a demilitarized zone (DMZ).</li>
+                    <li>Implements disaster recovery solutions which includes the company's backup and recovery solution architectures.</li>
+                    <li>Optimizes moderately complex infrastructure components to meet performance requirements. </li>
+                    <li>Participates in internal initiatives for the implementation, use, and improvement of processes, procedures, guidelines, and metrics for infrastructure systems.</li>
+                    <li>Serves as escalation point for resolving moderately complex infrastructure issues. Gathers diagnostics and troubleshoots infrastructure issues as needed. Participates in rotational on-call support.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required.</li>
+                    <li>Minimum of 2 years of experience in deploying and supporting enterprise-class infrastructure in a large datacenter and/or cloud environment.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -1308,26 +1292,27 @@ const JOB_PATHS = [
                 name: "Infrastructure Engineer II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Leads and provides engineering, third-level technical support, and technology integration services for all aspects of enterprise-class datacenter server, storage and virtualization infrastructure.  Leads team initiatives and participates simultaneously in multiple IT project implementations.<br>
+                Has knowledge of advanced concepts, practices, and procedures. Learned professional responsible for resolving problems of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited supervision. Technical guidance required for unusual and/or complex problems/projects.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Daily support of private and public cloud infrastructure, including enterprise servers, email systems, Storage Area Networks (SAN), and Network-Attached Storage (NAS).</li>
+                    <li>Builds, deploys, and maintains enterprise-class datacenter server and storage infrastructure.</li>
+                    <li>Plans and deploys virtualization solutions using private, public, and hybrid cloud technologies.</li>
+                    <li>Plans and implements proactive management and monitoring solutions using enterprise-class tools. </li>
+                    <li>Plans and builds high availability solutions for the Company’s key infrastructure, including public-facing web infrastructure in a demilitarized zone (DMZ).</li>
+                    <li>Plans and implements disaster recovery solutions which includes the company's backup and recovery solution architectures.</li>
+                    <li>Optimizes complex infrastructure components to meet performance requirements. </li>
+                    <li>Provides technical leadership and mentoring to less senior members on and off the team.</li>
+                    <li>Leads internal initiatives for the implementation, use, and improvement of processes, procedures, guidelines, and metrics for Infrastructure systems. </li>
+                    <li>Serves as escalation point for resolving moderately complex to complex infrastructure issues. Gathers diagnostics and troubleshoots infrastructure issues as needed. Participates in rotational on-call support. </li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required. </li>
+                    <li>Minimum of 5 years of experience in deploying and supporting enterprise-class infrastructure in a large datacenter and/or cloud environment.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -1335,26 +1320,29 @@ const JOB_PATHS = [
                 name: "Infrastructure Engineer III",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Leads and provides engineering, advanced-level technical support for the most complex issues, and technology integration services for all aspects of enterprise-class datacenter server, storage, and virtualization infrastructure.  Leads team initiatives and participates simultaneously in multiple IT project implementations.<br>
+                Has knowledge of advanced concepts, practices, and procedures. Experienced professional competent to work at the highest technical level. Considers the current and future business environment in the design and upgrade of systems. Brings Enterprise level perspective to designs and solutions.  Normally works under general guidance without technical supervision.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Escalated support of private and public cloud infrastructure, including enterprise servers, email systems, Storage Area Networks (SAN), and Network-Attached Storage (NAS).</li>
+                    <li>Leads the build, deployment, and maintenance of enterprise-class datacenter server and storage infrastructure.</li>
+                    <li>Independently plans and deploys virtualization solutions using private, public, and hybrid cloud technologies.</li>
+                    <li>Serves as a technical subject matter expert through all phases of infrastructure support and project implementation.</li>
+                    <li>Leads the selection and evaluation of core infrastructure solutions that meet present and future business needs.</li>
+                    <li>Contributes to and champions PulteGroup Infrastructure best practices, methods, standards, and processes.</li>
+                    <li>Designs and implements proactive management and monitoring solutions using enterprise-class tools. </li>
+                    <li>Designs and builds high-availability solutions for the Company’s key infrastructure, including public-facing web infrastructure in a demilitarized zone (DMZ).</li>
+                    <li>Designs and implements disaster recovery solutions which includes the company's backup and recovery solution architectures.</li>
+                    <li>Optimizes highly complex infrastructure components to meet performance requirements. </li>
+                    <li>Provides technical leadership, guidance, and mentoring to less senior members on and off the team. </li>
+                    <li>Serves as escalation point for the most complex infrastructure issues. Gathers diagnostics and troubleshoots as needed. Participates in rotational on-call support.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required.</li>
+                    <li>Minimum of 10 years of experience in deploying and supporting enterprise-class infrastructure in a large datacenter and/or cloud environment.  </li>
+                    <li>These minimum requirements will also include additional criteria specific to the position. </li>
                 </ul>
                 `
             }
@@ -1542,26 +1530,27 @@ const JOB_PATHS = [
                 name: "Field Support Engineer I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for engineering, second-level technical support, technology integration services for all aspects of Field server, O/S, hardware, storage, and network and virtualization infrastructure.<br>
+                Participates in team initiatives while simultaneously participating in multiple IT/Business project efforts. <br>
+                Incumbent at this level has a knowledge of fundamental concepts, practices, and procedures. Works under limited supervision and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Uses basic knowledge of technology and desktop operating systems to provide and implement developed solutions for division-specific needs. Plans, coordinates and schedules all aspects of IT for new community startups, moves and closures.  </li>
+                    <li>Works with senior technical team members to optimize local infrastructure components to meet performance requirements. </li>
+                    <li>Participates in department-wide projects & the support turnover process. Interfaces with all levels of the division-based hierarchy & all IT functional groups. Must provide exceptional customer service & translate technical concepts for non-technical audiences.</li>
+                    <li>Participates in internal initiatives for the implementation, use, and improvement of processes, procedures, guidelines, and metrics for infrastructure systems.</li>
+                    <li>Manages ordering & disposal of assets including compliance with Legal Holds processes. Responds to escalated alerts & cases from the Technical Support Center (TSC) & Data Center Operations (DCO) teams to resolve simple to moderately complex issues. With guidance, performs site-based troubleshooting & diagnostics gathering as needed. Participates in on-call support.</li>
+                    <li>Provides basic technical training on IT-sponsored applications following a provided curriculum. Implements internal initiatives for the improvement of field-based processes. Serves as the primary integration point among centralized corporate infrastructure processes & field locations.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required.</li>
+                    <li>Experience in developing client &/or supplier relationships is preferred.  </li>
+                    <li>Minimum of 3 years of experience in supporting Microsoft products & related technologies.  </li>
+                    <li>Basic knowledge of troubleshooting server, wide area networking (WAN), local area networking (LAN) & virtual infrastructure preferred.  </li>
+                    <li>Ability to travel up to 40% required.  </li>
+                    <li>Relevant certifications such as Microsoft Certified Professional (MCP) preferred. </li>
                 </ul>
                 `
             },
@@ -1569,26 +1558,26 @@ const JOB_PATHS = [
                 name: "Field Support Engineer II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Leads and provides engineering, third-level technical support, and technology integration services for all aspects of Field server, O/S, hardware, storage, network and virtualization infrastructure. <br>
+                Leads team initiatives and participates simultaneously in multiple IT/Business project efforts. <br>
+                Incumbent at this level is a learned professional responsible for resolving problems of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited supervision.  <br>
+                Technical guidance required for unusual and/or complex problems/projects. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>All Engineer I responsibilities</li>
+                    <li>Demonstrates an intermediate level of technical knowledge  and a fundamental understanding of key business processes in their market and the enterprise </li>
+                    <li>Tests & identifies workstation & laptop models for service catalog; manages ordering & disposal of assets including compliance with Legal Holds processes. Responds to escalated alerts & cases from the Technical Support Center (TSC) & Data Center Operations (DCO) teams to resolve moderately complex to complex issues. Performs advanced, site-based troubleshooting & diagnostics gathering as needed. Participates in on-call support.</li>
+                    <li>Provides technical leadership & mentoring to Field Server Engineer I's, Operation Technicians & Support Technicians. Leads internal initiatives for the implementation & improvement of field-based processes. Serves as the primary integration point among centralized corporate infrastructure processes & field locations. Identifies support processes that can be migrated from the Field support team to the TSC. </li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required. </li>
+                    <li>Minimum of 2 years of experience in developing client &/or supplier relationships.</li>
+                    <li>Minimum of 5 years of experience in supporting Microsoft servers & related technologies. </li>
+                    <li>Intermediate knowledge of troubleshooting server, wide area networking (WAN), local area networking (LAN) & virtual infrastructure strongly preferred. </li>
+                    <li>Ability to travel up to 40% required.</li>
+                    <li>Relevant certifications such as Microsoft Certified Systems Engineer (MCSE) preferred. </li>
                 </ul>
                 `
             },
@@ -1596,26 +1585,37 @@ const JOB_PATHS = [
                 name: "Field Support Engineer III",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Leads and provides engineering, advanced level technical support for the most complex issues, and technology integration services for all aspects of Field server, O/S, hardware, storage, network and virtualization infrastructure.<br>
+                Provides strategy, guidance and direction to team initiatives that support both Business and IT priorities. Participates simultaneously in multiple project efforts. <br>
+                Incumbent at this level is an experienced professional competent to work at the highest technical level. In depth knowledge of business processes and practices. Considers the current and future business environment in the design and upgrade of systems and future technology. Provides Enterprise level perspective to designs and solutions.  Normally works under general guidance of team lead and manager without technical supervision.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>All Engineer I & II responsibilities</li>
+                    <li>Uses advanced knowledge of server OS, networking technologies, tools and software along with business process experience to develop and implement strategies that align with Business goals</li>                    
+                    <li>Researches and determines the most effective use of technology in support of business strategic goals across diverse market requirements.</li>                    
+                    <li>Works in conjunction with IT   architects to design optimized network and local infrastructure components to meet performance requirements across diverse networks.</li>
+                    <li>Effectively transitions work to appropriate teams to consistently  implement across the enterprise </li>
+                    <li>Participates in department-wide projects & the support turnover process. Interfaces with all levels of the division-based hierarchy & all IT functional groups. Must provide exceptional customer service & translate technical concepts for non-technical audiences.</li>
+                    <li>Sets the parameters for the build, deployment, and maintenance of Field technologies in coordination with business and IT goals and standards. Ensures effective implementation across the team </li>
+                    <li>Cohesively plans and develops strategies with IT, Business Verticals and Market Leadership using business knowledge and technical experience</li>
+                    <li>Serves as a business and technical subject matter expert through all phases of Field Services support and project implementation.</li>
+                    <li>Leads the selection and evaluation of core Field Services solutions that meet present and future business needs.</li>
+                    <li>Contributes to and champions PulteGroup Field Services best practices, methods, standards, and processes. </li>
+                    <li>Provides technical leadership, guidance, and mentoring to less senior members on and off the team.</li>
+                    <li>Responds to escalated system monitor alerts to resolve the most complex Field infrastructure issues. Performs advanced troubleshooting and diagnostics gathering as needed. Participates in rotational on-call support. </li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required.</li>
+                    <li>Minimum of 5 years of experience in developing client &/or supplier relationships.</li>
+                    <li>Minimum of 7 years of experience in home building environment.</li>
+                    <li>Advanced knowledge of troubleshooting servers, wide area networking (WAN), local area networking (LAN) & virtual infrastructures required.</li>
+                    <li>Ability to travel up to 40% required. </li>
+                    <li>Minimum of 10 years of experience in supporting Microsoft servers, software and related technologies.</li>
+                    <li>Minimum of 4 years of experience designing and implementing solutions using technical and business knowledge.</li>
+                    <li>Able to demonstrate advanced working knowledge of Field, IT and Business processes, policies and practices. </li>
+                    <li>Microsoft Certified Systems Engineer (MCSE) certification and PMP preferred. </li>
                 </ul>
                 `
             }
