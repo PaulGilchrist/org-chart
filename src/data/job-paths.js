@@ -24,7 +24,7 @@ const JOB_PATHS = [
                </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>Bachelor’s degree in Computer Information Systems or equivalent experience.</li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience.</li>
                     <li>Minimum of 3 years of experience in at least two distinct technical areas.</li>
                     <li>Working knowledge of a variety of systems & technical specialties.</li>
                     <li>These minimum requirements may also include additional criteria specific to the position.</li>
@@ -52,7 +52,7 @@ const JOB_PATHS = [
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>Bachelor’s degree in Computer Information Systems or equivalent experience.</li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience.</li>
                     <li>Minimum of 3 years of experience in at least two distinct technical areas, at least one directly related to engineering or development.</li>
                     <li>Minimum of 2 years of leadership experience.</li>
                     <li>Working knowledge of a variety of systems & technical specialties.</li>
@@ -85,7 +85,7 @@ const JOB_PATHS = [
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>Bachelor’s degree in Computer Information Systems or equivalent experience.</li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience.</li>
                     <li>Minimum of 3 years of progressive technical experience.</li>
                     <li>Minimum of 5 years of progressive leadership experience.</li>
                     <li>Thorough knowledge of software development lifecycle & project management methodologies.</li>
@@ -117,7 +117,7 @@ const JOB_PATHS = [
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>Bachelor’s degree in Computer Information Systems or equivalent experience.</li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience.</li>
                     <li>Minimum of 5 years of progressive technical experience.</li>
                     <li>Minimum of 10 years of progressive leadership experience, managing in a large department.</li>
                     <li>Thorough knowledge of software development lifecycle & project management methodologies.</li>
@@ -130,7 +130,7 @@ const JOB_PATHS = [
                 name: "IT Director",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                With the CIO & business partners, develops long-term systems & strategic growth plans. Develops & executes vision & strategy aligned with the company’s business goals. <br>
+                With the CIO & business partners, develops long-term systems & strategic growth plans. Develops & executes vision & strategy aligned with the company's business goals. <br>
                 Responsible for capitalizing on opportunities for solutions-oriented thinking with a focus on collaborative processes & relationship structures.<br>
                 Plans & manages the full portfolio of IT & business process work. <br>
                 Acts as a visionary & proactively assists in defining direction for future projects.<br>
@@ -148,7 +148,7 @@ const JOB_PATHS = [
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>Bachelor’s degree in Computer Information Systems or equivalent experience.</li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience.</li>
                     <li>Minimum of 12 years of progressive leadership experience, managing in a large department.</li>
                     <li>Thorough knowledge of IT governance & IT operations with a clear understanding of how an IT organization operates in alignment with business processes.</li>
                     <li>Superior ability to clearly articulate strategic benefits & value propositions to Executive Management.</li>
@@ -282,7 +282,7 @@ const JOB_PATHS = [
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>A bachelor’s degree in a field related to the position or a combination of related education and work experience in the area of processing invoices for 3 – 5 years, knowledge of auditing and accounting.</li>
+                    <li>A bachelor's degree in a field related to the position or a combination of related education and work experience in the area of processing invoices for 3 – 5 years, knowledge of auditing and accounting.</li>
                     <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
@@ -299,13 +299,13 @@ const JOB_PATHS = [
                     <li>Serves as an expert in the area of provisioning services for the field and for the company.</li>
                     <li>Coordinates installs, moves and disconnects with local and national vendors for all data and voice services for Pulte sites.</li>
                     <li>Create assets and maintains them in our tracking software.</li>
-                    <li>Partner with Field SE’s to ensure services and products are ordered and installed in a timely fashion.</li>
+                    <li>Partner with Field SE's to ensure services and products are ordered and installed in a timely fashion.</li>
                     <li>Technical knowledge of support applications.</li>
                     <li>Participates in process improvement efforts within the Finance & Administration team.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>A bachelor’s degree in a field related to the position or a combination of related education and work experience in the area of provisioning for 3 -5 years.</li>
+                    <li>A bachelor's degree in a field related to the position or a combination of related education and work experience in the area of provisioning for 3 -5 years.</li>
                     <li>Prefer knowledge of procurement and asset tracking applications.</li>
                     <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
@@ -328,8 +328,8 @@ const JOB_PATHS = [
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>A bachelor’s degree in a field related to the position or a combination of related education and work experience in the area of IT contract management.</li>
-                    <li>Minimum of 5 plus years’ experience working with contracts with proven ability to interpret complex policy, legal and contractual or regulatory procurement requirements.</li>
+                    <li>A bachelor's degree in a field related to the position or a combination of related education and work experience in the area of IT contract management.</li>
+                    <li>Minimum of 5 plus years' experience working with contracts with proven ability to interpret complex policy, legal and contractual or regulatory procurement requirements.</li>
                     <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
@@ -451,7 +451,7 @@ const JOB_PATHS = [
                     <li>Ensures project is progressing as planned through constant prioritization, cost, scope, change and quality management</li>
                     <li>Completes project closure activities to formalize and communicate the project acceptance. Hands over documentation and ongoing activities to accountable teams.</li>
                     <li>Conducts a retrospective project review to identify areas of improvement</li>
-                    <li>Applies and holds team accountable to the use of Pulte’s standard project and functional practices, procedures, and use of tools</li>
+                    <li>Applies and holds team accountable to the use of Pulte's standard project and functional practices, procedures, and use of tools</li>
                     <li>Identifies and implements the methodology, tools and templates used and sets expectations on how the project will be executed</li>
                     <li>Oversees and supports the creation of the WBS (Work Breakdown Structure) for the project</li>
                     <li>May participate in the discovery and selection of external staffing resources</li>
@@ -464,7 +464,7 @@ const JOB_PATHS = [
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>A bachelor’s degree in a field related to the position or a combination of related education and work experience in the area of project management equal to four years.</li>
+                    <li>A bachelor's degree in a field related to the position or a combination of related education and work experience in the area of project management equal to four years.</li>
                     <li>Minimum of 5 years of experience required in a Project Manager, Project Coordinator or equivalent role.</li>
                     <li>PMI-PMP, PMI-ACP or equivalent strongly preferred</li>
                     <li>These minimum requirements will also include additional criteria specific to the position.</li>
@@ -484,32 +484,32 @@ const JOB_PATHS = [
                 <h3>Typical Responsibilities</h3>
                 <ul>
                     <li>Manages project initiation activities including development of project management and communication plans, identify stakeholders, secure project resources, and facilitate project kick-off</li>
-                    <li>Interacts with cross-functional teams to plan solution releases, testing coordination and implementation of final product. </li>
-                    <li>Manages project risk, issues and activities to ensure project goals, budget, deadline, scope and quality are achieved. Remove blocks and assists with problem resolution or risk mitigation as needed. </li>
-                    <li>Holistically manages vendor relationships through product evaluation, selection, creation of Request for Proposal (RFP), negotiation, and closure. </li>
-                    <li>Produces project budgets and submits to leadership for rollup into department budgets; manages project budget throughout the project lifecycle </li>
-                    <li>Contributes to the development of the Project Manager competency, drives the expansion of the PM discipline across the organization through various learning and development initiatives, and formally mentors other PMs. </li>
-                    <li>Ensures project/program is progressing as planned through constant prioritization, cost, scope, change and quality management </li>
-                    <li>Completes project/program closure activities to formalize and communicate the project acceptance. Hands over documentation and ongoing activities to accountable teams. </li>
-                    <li>Conducts a retrospective project/program review to identify areas of improvement </li>
-                    <li>Applies and holds team accountable to the use of Pulte’s standard project and functional practices, procedures, and use of tools </li>
-                    <li>Identifies, implements, and adapts the methodology, tools, and templates used for a project and sets expectations on how the project will be executed based on the team’s dynamic, personnel, and context </li>
-                    <li>Oversees and supports the creation of the WBS (Work Breakdown Structure) for the project </li>
-                    <li>Collaborates with leadership to identify and select external staffing partners and helps manage the partner relationship </li>
-                    <li>Ensures project deliverables are in alignment with compliance objectives and participates in audit processes. </li>
-                    <li>Oversees escalated product support including on-call (after-hours, weekends, and holidays) for high priority issues. </li>
-                    <li>Participates in the continuous employee review process by providing specific input regarding team member performance </li>
-                    <li>Within project/program team, identifies process gaps or areas for improvement across all functional areas and drives solution implementation </li>
-                    <li>Coordinates and oversees onboarding of new project team members including system, tools and project methodology training  </li>
-                    <li>Defines and implements project KPI’s in addition to providing project/program status and KPI reports to IT and business leadership </li>
+                    <li>Interacts with cross-functional teams to plan solution releases, testing coordination and implementation of final product.</li>
+                    <li>Manages project risk, issues and activities to ensure project goals, budget, deadline, scope and quality are achieved. Remove blocks and assists with problem resolution or risk mitigation as needed.</li>
+                    <li>Holistically manages vendor relationships through product evaluation, selection, creation of Request for Proposal (RFP), negotiation, and closure.</li>
+                    <li>Produces project budgets and submits to leadership for rollup into department budgets; manages project budget throughout the project lifecycle</li>
+                    <li>Contributes to the development of the Project Manager competency, drives the expansion of the PM discipline across the organization through various learning and development initiatives, and formally mentors other PMs.</li>
+                    <li>Ensures project/program is progressing as planned through constant prioritization, cost, scope, change and quality management</li>
+                    <li>Completes project/program closure activities to formalize and communicate the project acceptance. Hands over documentation and ongoing activities to accountable teams.</li>
+                    <li>Conducts a retrospective project/program review to identify areas of improvement</li>
+                    <li>Applies and holds team accountable to the use of Pulte's standard project and functional practices, procedures, and use of tools</li>
+                    <li>Identifies, implements, and adapts the methodology, tools, and templates used for a project and sets expectations on how the project will be executed based on the team's dynamic, personnel, and context</li>
+                    <li>Oversees and supports the creation of the WBS (Work Breakdown Structure) for the project</li>
+                    <li>Collaborates with leadership to identify and select external staffing partners and helps manage the partner relationship</li>
+                    <li>Ensures project deliverables are in alignment with compliance objectives and participates in audit processes.</li>
+                    <li>Oversees escalated product support including on-call (after-hours, weekends, and holidays) for high priority issues.</li>
+                    <li>Participates in the continuous employee review process by providing specific input regarding team member performance</li>
+                    <li>Within project/program team, identifies process gaps or areas for improvement across all functional areas and drives solution implementation</li>
+                    <li>Coordinates and oversees onboarding of new project team members including system, tools and project methodology training</li>
+                    <li>Defines and implements project KPI's in addition to providing project/program status and KPI reports to IT and business leadership</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>A bachelor’s degree in a field related to the position or a combination of related education and work experience in the area of project management equal to four years. </li>
-                    <li>PMI-PMP, PMI-ACP, PMI-PfMP, PMI-PgMP or recognized equivalent required.  </li>
-                    <li>Minimum of 10 years of experience required in a Project Manager, Program Manager, Portfolio Manager or equivalent role.   </li>
-                    <li>Demonstrated ability to exceed expectations of the Project Manager role. </li>
-                    <li>These minimum requirements will also include additional criteria specific to the position. </li>
+                    <li>A bachelor's degree in a field related to the position or a combination of related education and work experience in the area of project management equal to four years.</li>
+                    <li>PMI-PMP, PMI-ACP, PMI-PfMP, PMI-PgMP or recognized equivalent required.</li>
+                    <li>Minimum of 10 years of experience required in a Project Manager, Program Manager, Portfolio Manager or equivalent role.</li>
+                    <li>Demonstrated ability to exceed expectations of the Project Manager role.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             }
@@ -699,26 +699,25 @@ const JOB_PATHS = [
                 name: "QA Engineer I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for verifying applications, websites, databases and systems, defect management and providing second-level technical support.  Participates in team initiatives while simultaneously participating in multiple IT project efforts.  <br>
+                Incumbent at this level has a knowledge of fundamental quality assurance concepts, practices, and procedures. Works under guidance and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Conducts analysis of business and functional requirements.</li>
+                    <li>Conducts a full range of testing tasks including test strategy, plan and script design, execution and quality documentation for a variety of applications, systems, databases, or websites.</li>
+                    <li>Provides defect management of applications, systems, databases, or websites.</li>
+                    <li>Reviews application features and functions.  Recommends test automation candidates.</li>
+                    <li>Provides escalated (Tier 2) application support including on-call (after hours, weekends, holidays) for priority issues.  Troubleshoots production issues.</li>
+                    <li>Evaluates and follows through on issues and problems until resolved or escalated.</li>
+                    <li>Develops or modifies project quality artifacts using quality disciplined processes, procedures and standards.</li>
+                    <li>Participates in process improvement efforts within the Quality team or IT organization.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor's degree in a field related to the position or a combination of related education and work experience in the area of software testing to equal four years.</li>
+                    <li>Minimum of 2 years' experience required in a Software Quality Assurance role.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -726,26 +725,29 @@ const JOB_PATHS = [
                 name: "QA Engineer II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Leads and provides quality assurance for moderately complex applications, websites, databases and systems, defect management and provides second-level technical support.  Leads team initiatives and participates simultaneously participating in multiple IT project efforts.  <br>
+                Incumbent at this level is a learned professional responsible for quality assurance on projects of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited guidance. Technical guidance required for unusual and/or complex problems/projects. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Conducts analysis of business and functional requirements.</li>
+                    <li>Conducts a full range of testing tasks including test strategy, plan and script design, execution and quality documentation for a variety of applications, systems, databases, or websites.</li>
+                    <li>Leads and implements defect management solutions of applications, systems, databases, or websites.</li>
+                    <li>Reviews application features and functions and verifies test automation solutions.</li> 
+                    <li>Provides expertise on the quality methodology and recommends testing approaches.</li>
+                    <li>Provides escalated (Tier 2) application support including on-call (after hours, weekends, holidays) for priority issues.</li>
+                    <li>Troubleshoots complex production issues. Evaluates and follows through on issues and problems until resolved or escalated.</li>
+                    <li>Conducts analysis for the evaluation and selection of new quality software solutions and tools.</li>
+                    <li>May function as project Quality Lead. May provide training and technical guidance to less experienced QA Engineers.</li>
+                    <li>May perform test automation tasks under the guidance of the QAE III.</li>
+                    <li>Participates in process improvement efforts within the Quality team or IT organization.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor's degree in a field related to the position or a combination of related education and work experience in the area of software testing to equal four years.</li>
+                    <li>Minimum of 5 years' experience required in a Software Quality Assurance role.</li>
+                    <li>Demonstrated ability to exceed expectations of the QAE I role.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -753,26 +755,28 @@ const JOB_PATHS = [
                 name: "QA Engineer III",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for developing, coding, testing, debugging, and documenting quality automation tests for highly complex applications, programs, websites, databases, and systems.  Contribution is felt across a breath of development efforts within the Department. Individual is known and recognized within the Department for breadth of contributions. <br>
+                Incumbent at this level is an experienced professional competent to work at the highest technical level. Considers the current and future business environment in the design and maintenance of systems. Brings Enterprise level perspective to quality solutions.  Normally works under general guidance. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Conducts a full range of testing tasks including test automation design, development, debugging, and documentation for a variety of applications, systems, databases, or websites.</li>
+                    <li>Serves as a technical subject matter expert through all phases of quality assurance.</li>
+                    <li>Designs and develops test automation, performance, API and regression solutions that meet present and future business needs.</li>
+                    <li>Reviews application test automation for quality assurance and checks compliance with development standards.</li>
+                    <li>Determines the quality testing methodology and provides expertise on the quality methodology and recommends testing approaches</li>
+                    <li>Leads the selection and evaluation of quality software solutions and tools.</li>
+                    <li>Provides training, procedural and technical guidance to less experienced staff.</li>
+                    <li>Contributes to and champions PulteGroup Quality best practices, methods, standards, and processes per the IT Strategy.</li>
+                    <li>Identifies and leads process improvement efforts within the Quality team.</li>
+                    <li>May perform any listed QAE II responsibility given specific project/work assignment.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor's degree in a field related to the position or a combination of related education and work experience in the area of software testing to equal four years.</li>
+                    <li>Minimum of 10 years' experience required in a Software Quality Assurance role.</li>
+                    <li>Demonstrated ability to exceed expectations of the QAE II role.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             }
@@ -944,8 +948,8 @@ const JOB_PATHS = [
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>A bachelor’s degree in a field related to the position.</li>
-                    <li>Minimum of 2 years’ experience required in a related role.</li>
+                    <li>A bachelor's degree in a field related to the position.</li>
+                    <li>Minimum of 2 years' experience required in a related role.</li>
                     <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
@@ -975,8 +979,8 @@ const JOB_PATHS = [
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>A bachelor’s degree in a field related to the position.</li>
-                    <li>Minimum of 5 years’ experience required in a related role.</li>
+                    <li>A bachelor's degree in a field related to the position.</li>
+                    <li>Minimum of 5 years' experience required in a related role.</li>
                     <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
@@ -1010,8 +1014,8 @@ const JOB_PATHS = [
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li>A bachelor’s degree in a field related to the position.</li>
-                    <li>Minimum of 10 years’ experience required in a related role.</li>
+                    <li>A bachelor's degree in a field related to the position.</li>
+                    <li>Minimum of 10 years' experience required in a related role.</li>
                     <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
@@ -1265,7 +1269,7 @@ const JOB_PATHS = [
                     <li>Troubleshoots first-level WAN & server issues working from existing knowledge databases.</li>
                     <li>Supplements other support teams by performing customer access provisioning for new hires following documented procedures.</li>
                     <li>Monitors AS/400 jobs; performs backups & tests restores; manages tapes.</li>
-                    <li>Configures, tracks & ships routers & AP’s to field locations using documented procedures.</li>
+                    <li>Configures, tracks & ships routers & AP's to field locations using documented procedures.</li>
                     <li>Liaises with vendors for the servicing of hardware in the data center.</li>
                     <li>Monitors access to Data Center & responds to facilities alerts on UPS, CRAC & other in-room equipment.</li>
                     <li>Racks & tracks devices & cabling; monitors rack capacity.</li>
@@ -1292,9 +1296,9 @@ const JOB_PATHS = [
                     <li>Serves as generalist responsible for providing the majority of server & networking support for issues of low-to-moderate complexity.</li>
                     <li>Specializes in the administration of one or more systems monitoring / management applications such as SCOM, Solarwinds, NetBackup or Lumension.</li>
                     <li>Troubleshoots second-level WAN & server issues working from existing knowledge databases.</li>
-                    <li>Creates, documents & maintains procedures for configuring metro routers & AP’s including dhcp scopes, security lockdowns, & Zscaler settings.</li>
+                    <li>Creates, documents & maintains procedures for configuring metro routers & AP's including dhcp scopes, security lockdowns, & Zscaler settings.</li>
                     <li>Proactively leads process improvements to automate processes such as site connectivity turn-ups, & configuration updates.</li>
-                    <li>Manages Pulte’s inventory of broadband & wireless site routers including configures, tracks & ships routers & AP’s to field locations.</li>
+                    <li>Manages Pulte's inventory of broadband & wireless site routers including configures, tracks & ships routers & AP's to field locations.</li>
                     <li>Create documented procedures for less senior team members.</li>
                     <li>Liaises with vendors for ordering, installation & servicing equipment & systems in the data center.</li>
                     <li>Configures new monitoring & establishes standardized settings & names for systems they administer & track.</li>
@@ -1323,7 +1327,7 @@ const JOB_PATHS = [
                     <li>Daily support of private and public cloud infrastructure, including enterprise servers, email systems, Storage Area Networks (SAN), and Network-Attached Storage (NAS).</li>
                     <li>Deploys virtualization solutions using private, public, and hybrid cloud technologies.</li>
                     <li>Implements proactive management and monitoring solutions using enterprise-class tools.</li>
-                    <li>Builds high availability solutions for the Company’s key infrastructure, including public-facing web infrastructure in a demilitarized zone (DMZ).</li>
+                    <li>Builds high availability solutions for the Company's key infrastructure, including public-facing web infrastructure in a demilitarized zone (DMZ).</li>
                     <li>Implements disaster recovery solutions which includes the company's backup and recovery solution architectures.</li>
                     <li>Optimizes moderately complex infrastructure components to meet performance requirements.</li>
                     <li>Participates in internal initiatives for the implementation, use, and improvement of processes, procedures, guidelines, and metrics for infrastructure systems.</li>
@@ -1350,7 +1354,7 @@ const JOB_PATHS = [
                     <li>Builds, deploys, and maintains enterprise-class datacenter server and storage infrastructure.</li>
                     <li>Plans and deploys virtualization solutions using private, public, and hybrid cloud technologies.</li>
                     <li>Plans and implements proactive management and monitoring solutions using enterprise-class tools.</li>
-                    <li>Plans and builds high availability solutions for the Company’s key infrastructure, including public-facing web infrastructure in a demilitarized zone (DMZ).</li>
+                    <li>Plans and builds high availability solutions for the Company's key infrastructure, including public-facing web infrastructure in a demilitarized zone (DMZ).</li>
                     <li>Plans and implements disaster recovery solutions which includes the company's backup and recovery solution architectures.</li>
                     <li>Optimizes complex infrastructure components to meet performance requirements.</li>
                     <li>Provides technical leadership and mentoring to less senior members on and off the team.</li>
@@ -1381,7 +1385,7 @@ const JOB_PATHS = [
                     <li>Leads the selection and evaluation of core infrastructure solutions that meet present and future business needs.</li>
                     <li>Contributes to and champions PulteGroup Infrastructure best practices, methods, standards, and processes.</li>
                     <li>Designs and implements proactive management and monitoring solutions using enterprise-class tools.</li>
-                    <li>Designs and builds high-availability solutions for the Company’s key infrastructure, including public-facing web infrastructure in a demilitarized zone (DMZ).</li>
+                    <li>Designs and builds high-availability solutions for the Company's key infrastructure, including public-facing web infrastructure in a demilitarized zone (DMZ).</li>
                     <li>Designs and implements disaster recovery solutions which includes the company's backup and recovery solution architectures.</li>
                     <li>Optimizes highly complex infrastructure components to meet performance requirements.</li>
                     <li>Provides technical leadership, guidance, and mentoring to less senior members on and off the team.</li>
