@@ -1,5 +1,8 @@
 .job {
+    display: grid;
+    grid-template-columns: auto auto;
     flex: 1;
+    place-items: center;
 }
 
 .job-item {
