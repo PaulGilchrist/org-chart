@@ -817,26 +817,24 @@ const JOB_PATHS = [
                 name: "Software Developer I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for developing, coding, testing, debugging, and documenting applications, programs, websites, databases, and systems. <br>
+                Performs work associated with the design, implementation or delivery of processes, programs and policies using specialized knowledge and skills typically acquired through advanced education and work experience. <br>
+                Works independently with general supervision. Problems faced are difficult but typically not complex. May influence others within the job area through explanation of facts, policies, and practices. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Conducts a range of programming tasks including development, debugging, estimating, unit testing, and documentation for a variety of applications, systems, databases, or websites.</li>
+                    <li>Provides ongoing maintenance of applications, systems, databases, or websites.</li>
+                    <li>Provides application support including on-call (after hours, weekends, holidays) for priority issues.</li>
+                    <li>Troubleshoots production issues. Evaluates and follows through on issues and problems until resolved or escalated.</li>
+                    <li>Assists with systems analysis and preparation of detailed systems design specifications.</li>
+                    <li>Participates in process improvement efforts within teams.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor's degree in a field related to the position or a combination of related education and work experience in the areas of application/web /systems/database development to equal four years.</li>
+                    <li>Minimum of 2 years of experience required in a Software Developer role.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -844,26 +842,32 @@ const JOB_PATHS = [
                 name: "Software Developer II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for developing, coding, testing, debugging, and documenting moderately complex applications, programs, websites, databases, and systems. <br>
+                Manages or performs work associated with the design, implementation or delivery of processes, programs and policies using advanced knowledge of job area typically obtained through advanced education and work experience. <br>
+                Responsibilities may include managing projects or processes, coaching, and reviewing the work of lower-level professionals. <br>
+                May lead projects or project steps within a broader project.  May direct the work of other lower-level professionals and act as a resource for colleagues with less experience. <br>
+                Individual may serve as a subject matter expert for certain areas of the application, for technologies and integrations, or business processes. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Conducts a full range of programming tasks including program design, development, debugging, estimating, unit testing, and documentation for a variety of applications, systems, databases, or websites.</li>
+                    <li>Gathers and interprets system requirements and develops detailed system specifications.</li>
+                    <li>Formulates and documents design alternatives and recommendations.</li>
+                    <li>Designs, implements, and executes test plans. Prepares systems test data and prepares program documentation.</li>
+                    <li>Reviews application modules and checks compliance with application architecture standards.</li>
+                    <li>Provides ongoing maintenance of applications, systems, databases, or websites.</li>
+                    <li>Provides application support including on-call (after hours, weekends, holidays) for priority issues.</li>
+                    <li>Troubleshoots complex production issues. Evaluates and follows through on issues and problems until resolved or escalated.</li>
+                    <li>Conducts analysis to determine and plan for new programs, system integrations, or system upgrades.</li>
+                    <li>Conducts analysis for the evaluation and selection of new vendor software solutions and packages.</li>
+                    <li>May provide training and technical guidance to less experienced staff.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor's degree in a field related to the position or a combination of related education and work experience in the areas of application/web /systems/database development to equal four years.</li>
+                    <li>Minimum of 5-7 years of experience required in a Software Developer role.</li>
+                    <li>Demonstrated ability to exceed expectations of the SD I role.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -871,26 +875,35 @@ const JOB_PATHS = [
                 name: "Software Developer III",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for developing, coding, testing, debugging, and documenting a broad range of highly complex applications, programs, websites, databases, and systems. <br>
+                Most of the time is spent managing the design, implementation or delivery of processes, programs and policies using advanced knowledge of job area typically obtained through advanced education and work experience.  <br>
+                Responsibilities typically include managing large projects or processes with limited oversight from manager, coaching, reviewing, and delegating work to lower-level professionals.  <br>
+                Leads development efforts within team, has expert understanding of critical software development efforts across team, and supports the software development function within the organization. Considers the current and future business environment of systems bringing enterprise-level perspective to designs and solutions. <br>
+                Contribution is felt across a breath of development efforts within the solutions delivery team. Individual is often utilized as a subject matter expert. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Conducts a full range of programming tasks including program design, development, debugging, estimating, unit testing, and documentation for a variety of applications, systems, databases, or websites.</li>
+                    <li>Serves as a technical subject matter expert through all phases of system analysis and development.</li>
+                    <li>Collaborates with team leadership to design and develop well-integrated, enterprise-level solutions that meet present and future business needs.</li>
+                    <li>Determines testing methodology and manages the development and execution of comprehensive test plan.</li>
+                    <li>Reviews application modules and checks compliance with application architecture standards.</li>
+                    <li>Provides application support including on-call (after hours, weekends, holidays) for priority issues.</li>
+                    <li>Serves as escalation point for resolving highly complex and non-routine production, application, or website issues.</li>
+                    <li>Leads the selection and evaluation of vendor software solutions and packages.</li>
+                    <li>Typically functions as project development Lead.</li>
+                    <li>Leads knowledge sharing and shared understanding amongst development team.</li>
+                    <li>Provides mentoring, training, procedural and technical guidance to less experienced staff.  This includes documentation of technical designs and decisions and assuring technical knowledge is shared with all development team members.</li>
+                    <li>Works with software development manager, senior technologists, and business relationship manager to set and track delivery and development goals for individuals on team.</li>
+                    <li>Contributes to and champions PulteGroup Development best practices, methods, standards, and processes.</li>
+                    <li>Identifies and leads process improvement efforts within teams.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor's degree in a field related to the position or a combination of related education and work experience in the areas of application/web /systems/database development to equal four years.</li>
+                    <li>Minimum of 10 years of experience required in a Software Developer role.</li>
+                    <li>Demonstrated ability to exceed expectations of the SD II role.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -898,26 +911,30 @@ const JOB_PATHS = [
                 name: "Senior Technologist",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Serves as the top-level technical expert for mission-critical, strategically focused applications, programs, websites, databases, and systems.  Responsible for developing, coding, testing, debugging, and documenting these systems. <br>
+                Individual is a thought leader and technical expert in a critical service or technology and has comprehensive knowledge in specific or multiple functional/technical areas.<br>
+                Work is often driven by strategic business or strategic internal projects.  Guidance generally provided through members of the Executive and/or Architecture team. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Responsible for providing architectural guidance to application development teams that result in team's ability to address key architectural drivers including performance, scalability, maintainability, and security.</li>
+                    <li>Responsible for knowledge sharing efforts including active participation in the software development community COE and developer community documentation.</li>
+                    <li>Conducts a full range of programming tasks including program design, development, debugging, estimating, unit testing, and documentation for a variety of applications, systems, databases, or websites.</li>
+                    <li>Leads forward-looking, long-term application development, integration, upgrades, and maintenance strategies. Collaborates across teams to effectively identify and mitigate cross-team impacts of application features and data flow.</li>
+                    <li>Anticipates and leads change in specific technical area of focus.</li>
+                    <li>Reviews system requirements, design, and business processes to ensure alignment with IT and business strategies and architectural standards.</li>
+                    <li>Works closely with Architects on development of POC's.</li>
+                    <li>Provides oversight for contracting teams to evaluate and assure effective use of resources.</li>
+                    <li>Provides expertise on the resolution of the most complex technical design and system integration problems, which often requires analysis of unique issues and/or adapting non-traditional approaches.</li>
+                    <li>Works with software development manager and enterprise architect to set architectural and development goals for individuals on teams of supported applications.</li>
+                    <li>Regularly provides technical leadership for large-scale and cross-functional projects with great latitude on project execution.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor's degree in a field related to the position or a combination of related education and work experience in the areas of application/web /systems/database development to equal four years.</li>
+                    <li>Minimum of 10 years of experience required in a Software Developer role.</li>
+                    <li>Demonstrated ability to exceed expectations of the SD III role.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             }
@@ -1117,26 +1134,26 @@ const JOB_PATHS = [
                 name: "IT Security Engineer I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for engineering, technical support, and technology integration services for all aspects of security-related infrastructure and software. Participates in team initiatives while simultaneously participating in multiple IT security project implementations. <br>
+                Has knowledge of fundamental security concepts, practices, and procedures. Works under direct supervision and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters.  <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Daily support of engineering services to scope, design, test and deploy various security-focused infrastructure components to include next generation firewalls, network access control (NAC) solutions, spam filtering, security information event monitoring (SIEM) tools, and encryption technology.</li>
+                    <li>Maintains knowledge of security best practices, compliance requirements, and threats and trends in information security.</li>
+                    <li>Uses fundamental knowledge of attack techniques to develop and implement detection capabilities for indicators of compromise; correlates data to build effective SIEM alerts.</li>
+                    <li>Researches and implements system hardening procedures. With guidance, configures basic firewall rules, content filtering, and security policies that work within PulteGroup's security framework.</li>
+                    <li>Administers and maintains security infrastructure hardware and software, performing upgrades when appropriate.</li>
+                    <li>Responds to alerts from SIEM and performs forensic analysis and escalation for identified threats. Evaluates vulnerabilities published by third party vendors or other media, and assesses risk to the company.</li>
+                    <li>Participates in regularly scheduled vulnerability assessments and remediates as necessary.</li>
+                    <li>Performs basic troubleshooting and diagnostics gathering to resolve moderately complex security issues as needed.</li>
+                    <li>Participates in rotational on-call support.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required.</li>
+                    <li>Minimum of 1 year of experience supporting enterprise-class security infrastructure in a datacenter environment.</li>
+                    <li>Minimum of 1 year of experience working in an Information Security role.</li>
                 </ul>
                 `
             },
@@ -1144,26 +1161,32 @@ const JOB_PATHS = [
                 name: "IT Security Engineer II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Leads and provides engineering, second level technical support, and technology integration services for all aspects of security-related infrastructure and software. Leads team initiatives and participates simultaneously in multiple IT security project implementations. <br>
+                Has knowledge of advanced security concepts, practices, and procedures. Learned professional responsible for resolving security problems of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited supervision. Technical guidance required for unusual and/or complex problems/projects. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Daily support of engineering services to scope, design, test and deploy various security-focused infrastructure components to include next generation firewalls, network access control (NAC) solutions, spam filtering, security information event monitoring (SIEM) tools, and encryption technology.</li>
+                    <li>Maintains advanced knowledge of security best practices, compliance requirements, and threats and trends in information security and applies that when recommending technology solutions within the security framework.</li>
+                    <li>Uses strong knowledge of attack techniques to develop and implement detection capabilities for indicators of compromise; correlates data to build effective SIEM alerts.</li>
+                    <li>Researches and implements system hardening procedures.</li>
+                    <li>Configures firewall rules, content filtering, and security policies that work within PulteGroup's security framework.</li>
+                    <li>Administers, maintains, and optimizes security infrastructure hardware and software, performing upgrades when appropriate.</li>
+                    <li>Responds to alerts from SIEM and independently performs forensic analysis and escalation for identified threats.</li>
+                    <li>Evaluates vulnerabilities published by third party vendors or other media, assesses risk to the company and determines best course of action.</li>
+                    <li>Participates and/or leads regularly scheduled vulnerability assessments and remediates as necessary.</li>
+                    <li>Performs advanced troubleshooting and diagnostics gathering to resolve moderately complex to complex security issues as needed.</li>
+                    <li>Participates in rotational on-call support.</li>
+                    <li>Provides technical leadership and mentoring to less senior members on and off the team.</li>
+                    <li>Consults with other teams regarding technology solutions for business needs and/or problem resolution.</li>
+                    <li>Proactively seeks out opportunities to collaborate with other IT teams on project assignments and problem escalation.</li>
+                    <li>Participates in, or leads, internal security initiatives for the implementation, use, and improvement of processes, procedures, guidelines, and metrics for security systems.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required.</li>
+                    <li>Minimum of 5 years of experience in deploying and supporting enterprise-class security infrastructure in a datacenter environment.</li>
+                    <li>Minimum of 2 years of experience working in an Information Security role with exposure to mobility and cloud technologies. ISC or GIAC certification strongly preferred.</li>
                 </ul>
                 `
             },
@@ -1171,26 +1194,34 @@ const JOB_PATHS = [
                 name: "IT Security Engineer III",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Leads and provides engineering, advanced level technical support for the most complex issues, and technology integration services for security aspects of enterprise-class datacenter server, storage and virtualization infrastructure.  Leads team initiatives and participates simultaneously in multiple IT security project implementations. <br>
+                Has knowledge of advanced security concepts, practices, and procedures. Experienced professional competent to work at the highest technical level. Considers the current and future business environment in the design and upgrade of systems. Brings Enterprise level security perspective to designs and solutions.  Normally works under general guidance without technical supervision. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Takes a lead role on the engineering services to scope, design, test and deploy the most complex security-focused infrastructure components to include next generation firewalls, network access control (NAC) solutions, spam filtering, security information event monitoring (SIEM) tools, and encryption technology.</li>
+                    <li>Maintains expert knowledge of security best practices, compliance requirements, and threats and trends in information security and applies that when recommending technology solutions within the security framework.</li>
+                    <li>Uses expert knowledge of attack techniques to develop and implement detection capabilities for indicators of compromise; correlates data to build effective SIEM alerts.</li>
+                    <li>Independently researches and implements system hardening procedures.</li>
+                    <li>Configures advanced firewall rules, content filtering, and security policies that work within PulteGroup's security framework.</li>
+                    <li>Works with Infrastructure and Network Architects to evaluate and recommend security solutions that fit within the enterprise architecture strategy and improve the Company's security posture.</li>
+                    <li>Administers, maintains, and optimizes security infrastructure hardware and software, performing upgrades when appropriate.</li>
+                    <li>Responds to alerts from SIEM and independently performs forensic analysis and escalation for identified threats.</li>
+                    <li>Evaluates vulnerabilities published by third party vendors or other media, assesses risk to the company and determines best course of action.</li>
+                    <li>Leads regularly scheduled vulnerability assessments and remediates as necessary.</li>
+                    <li>Performs advanced troubleshooting and diagnostics gathering to resolve the most complex security issues as needed.</li>
+                    <li>Participates in rotational on-call support.</li>
+                    <li>Leads internal initiatives for the implementation, use, and improvement of processes, procedures, guidelines, and metrics for security systems.</li>
+                    <li>Provides technical leadership and mentoring to less senior members on and off the team.</li>
+                    <li>Consults with other teams regarding technology solutions for business needs and/or problem resolution.</li>
+                    <li>Proactively seeks out opportunities to collaborate with other IT teams on project assignments and problem escalation.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required.</li>
+                    <li>Minimum of 10 years of experience designing, deploying, and supporting enterprise-class security infrastructure in a datacenter environment.</li>
+                    <li>Experience building and maturing an enterprise Information Security program and related processes.</li>
+                    <li>Minimum of 5 years of experience in an Information Security role with mobility and cloud technology experience required. ISC or GIAC certification required.</li>
                 </ul>
                 `
             },
