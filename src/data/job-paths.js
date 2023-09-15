@@ -21,7 +21,7 @@ const JOB_PATHS = [
                     <li>Facilitates meetings to effectively build consensus or solve issues across functional &/or geographical areas.</li>
                     <li>Approves & tracks PTO/Vacation requests in accordance with HR policies.</li>
                     <li>Retains system access & performs technical support duties within functional area.</li>
-               </ul>
+                </ul>
                 <h3>Education / Experience</h3>
                 <ul>
                     <li>Bachelor's degree in Computer Information Systems or equivalent experience.</li>
@@ -523,26 +523,26 @@ const JOB_PATHS = [
                 name: "Systems Analyst I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Responsible for functional requirements of applications, websites, databases and systems, providing second-level technical support, testing and defect management.  Participates in team initiatives while simultaneously participating in multiple IT project efforts. <br>
+                Incumbent at this level has a knowledge of fundamental concepts, practices, and procedures. Works under guidance and/or on routine assignments, the problems of which can be resolved with defined guidelines and parameters. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Conducts analysis of business and functional requirements.</li>
+                    <li>Designs, tests, implements and documents system solutions according to approved standards/procedures.</li>
+                    <li>Conducts analysis of system data, integration, reporting and processes.</li>
+                    <li>Provides recommendations and documents solutions according to approved standards/procedures.</li>
+                    <li>Prepares, maintains and archives detailed systems design specifications according to approved standards/procedures.</li>
+                    <li>Provides defect management of applications, systems, databases, or websites.</li>
+                    <li>Provides escalated (Tier 2) application support including on-call (after hours, weekends, holidays) for priority issues.  Troubleshoots production issues.</li>
+                    <li>Evaluates and follows through on issues and problems until resolved or escalated.</li>
+                    <li>Participates in process improvement efforts within the Systems Analysis team or IT organization.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor's degree in a field related to the position or a combination of related education and work experience in the area of systems analysis to equal four years.</li>
+                    <li>Minimum of 2 years' experience required in a Systems Analyst role.</li> 
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -550,26 +550,31 @@ const JOB_PATHS = [
                 name: "Systems Analyst II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Leads and provides systems analysis for moderately complex applications, websites, databases and systems, defect management and provides second-level technical support.  Leads team initiatives and participates simultaneously participating in multiple IT project efforts. <br>
+                Incumbent at this level is a learned professional responsible for systems analysis on projects of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited guidance.  Technical guidance required for unusual and/or complex problems/projects. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Conducts analysis of business and functional requirements.</li>
+                    <li>Designs, tests, implements and documents system solutions according to approved standards/procedures.</li>
+                    <li>Conducts analysis of system data, integration, reporting and processes.</li>
+                    <li>Provides recommendations and documents solutions according to approved standards/procedures.</li>
+                    <li>Serves as the application subject matter expert, researches and implements functional design solutions of applications, systems, databases, or websites.</li>
+                    <li>Predicts potential problems for delivered applications and/or systems and provides recommended solutions.</li>
+                    <li>Reviews project proposals; identifies potential problem areas, and recommends optimum approaches for project path, utilizing specific area of technical expertise.</li>
+                    <li>Prepares, maintains and archives detailed systems design specifications according to approved standards/procedures.</li>
+                    <li>Develops or modifies project systems analysis artifacts using disciplined processes, procedures and standards.</li>
+                    <li>Provides escalated (Tier 2) application support including on-call (after hours, weekends, holidays) for priority issues.</li>
+                    <li>Troubleshoots complex production issues. Evaluates and follows through on issues and problems until resolved or escalated.</li>
+                    <li>Conducts analysis for the evaluation and selection of new analysis solutions and tools.</li>
+                    <li>Leads training and provides functional guidance to less experienced Systems Analysts.</li>
+                    <li>Leads process improvement efforts within the Systems Analysis team or IT organization.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor's degree in a field related to the position or a combination of related education and work experience in the area of systems analysis to equal four years.</li>
+                    <li>Minimum of 5 years' experience required in a Systems Analyst role.  Demonstrated ability to exceed expectations of the SA I role.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -577,26 +582,32 @@ const JOB_PATHS = [
                 name: "Systems Analyst III",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Leads and provides systems analysis for highly complex applications, programs, websites, databases, and systems.  Contribution is felt across a breath of development efforts within the Department. Individual is known and recognized within the Department for breadth of contributions. <br>
+                Incumbent at this level is an experienced professional competent to work at the highest technical level. Considers the current and future business environment in the design and maintenance of systems. Brings Enterprise level perspective to the business process and system functions.  Normally works under general guidance. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Conducts analysis of business and functional requirements. Designs, tests, implements and documents system solutions according to approved standards/procedures.</li>
+                    <li>Conducts analysis of system data, integration, reporting and processes.</li>
+                    <li>Provides recommendations and documents solutions according to approved standards/procedures.</li>
+                    <li>Serves as the application and technical subject matter expert.</li>
+                    <li>Provides expertise on the resolution of the most complex system design and integration problems, which often requires analysis of unique issues and/or adapting non-traditional approaches.</li>
+                    <li>Implements functional and technical solutions of applications, systems, databases, or websites.</li>
+                    <li>Leads forward-looking, long-term application function, integration and maintenance strategies.</li>
+                    <li>Anticipates and leads change in specific technical areas of focus.</li>
+                    <li>Provides functional training, procedural and technical guidance to less experienced staff.</li>
+                    <li>Leads the selection and evaluation of systems analysis software solutions and tools.</li>
+                    <li>Provides escalated (Tier 2) application support including on-call (after hours, weekends, holidays) for priority issues.</li>
+                    <li>Troubleshoots complex production issues. Evaluates and follows through on issues and problems until resolved or escalated.</li>
+                    <li>Contributes to and champions PulteGroup Systems Analysis best practices, methods, standards, and processes.</li>
+                    <li>Identifies and leads process improvement efforts within the Systems Analysis team.</li>
+                    <li>May perform any listed SA II responsibility given specific project/work assignment.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>A bachelor's degree in a field related to the position or a combination of related education and work experience in the area of systems analysis to equal four years.</li>
+                    <li>Minimum of 10 years' experience required in a Systems Analyst role.  Demonstrated ability to exceed expectations of the SA II role.</li>
+                    <li>These minimum requirements will also include additional criteria specific to the position.</li>
                 </ul>
                 `
             }
@@ -1529,26 +1540,31 @@ const JOB_PATHS = [
                 name: "Support Technician",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Provides entry-level customer support to end users on technical problem resolution & request management.  <br>
+                Processes provisioning & de-provisioning of user access to systems, utilizing tracking & documented approval procedures.<br>
+                Maintains knowledgebase documentation & trains end users on resolving common issues.<br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Serves as generalist responsible for providing the majority of direct customer support through multiple methods including email, phone & in-person.</li>
+                    <li>Primarily responsible for working incoming phones & team case queue. Ensures proper call categorization, triage, & routing.</li>
+                    <li>Ensures adherence to service level agreements.</li>
+                    <li>Troubleshoots issues working from existing knowledge databases & performs additional research as needed.</li>
+                    <li>Learns fundamental operation of applications & hardware commonly used at Pulte.</li>
+                    <li>With guidance, participates in team projects &/or represents support team on new application projects for tasks to transition from project mode to support mode.</li>
+                    <li>Orders, receives, configures & repairs end user hardware including desktops & laptops.</li>
+                    <li>Backs up & migrates data.</li>
+                    <li>Provides primary troubleshooting support on mobile devices such as smartphones & tablets.</li>
+                    <li>Must be willing to maintain flexible schedule including rotating evenings, holidays & weekends.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Proficiency with at least one operating system (OS), Windows or Mac, is required & both are strongly preferred.</li>
+                    <li>Basic familiarity with Android, Apple iOS & Windows Mobile are needed.</li>
+                    <li>Associate's degree in Computer Information Systems or equivalent experience required.</li>
+                    <li>A+ or other client hardware certification preferred.</li>
+                    <li>Microsoft system certifications or equivalent 1-3 years' client technical support required.</li>
+                    <li>These minimum requirements may also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -1556,26 +1572,34 @@ const JOB_PATHS = [
                 name: "Support Engineer I",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Provides second-level customer support & system administration assistance to end users on technical problem resolution & request management. <br>
+                Serves as primary subject matter expert on at least one Pulte application, supporting other team members. <br>
+                Participates in IT project implementations.<br>
+                Maintains user access tracking & approval procedures.<br>
+                Provides expertise on client workstation hardware & software management.<br>
+                Provides leadership & mentoring to Support Technicians. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Provides supplementary customer support as well as second-level support on moderately-to-highly complex cases escalated by Support Technicians.</li>
+                    <li>Specializes in at least two technologies in use at Pulte.</li>
+                    <li>Helps define service level agreements & associated procedures.</li>
+                    <li>Leads team process improvement initiatives to enhance service delivery.</li>
+                    <li>Leads internal team projects &/or represents support team on new application projects for tasks to transition from project mode to support mode. Provides guidance on user administration, security standards & compliance requirements.</li>
+                    <li>Creates communications for large (1000+) customer audiences.</li>
+                    <li>Provides troubleshooting support on mobile devices such as smartphones & tablets.</li>
+                    <li>Orders, receives, configures & repairs end user hardware including desktops & laptops. Backs up & migrates data.</li>
+                    <li>May participate in cross-functional incident management initiatives including root-cause analysis.</li>
+                    <li>Must be willing to maintain flexible schedule including rotating evenings, holidays & weekends.</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Expertise with Windows or Mac Operating Systems (OS) is required; expertise with both is strongly preferred.</li>
+                    <li>Proficiency with Android, Apple iOS & Windows Mobile are required; expertise is preferred.</li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required.</li>
+                    <li>Microsoft system certifications or equivalent 3-5 years' client technical support required.</li>
+                    <li>Clear, professional written & verbal communications skills are required.</li>
+                    <li>These minimum requirements may also include additional criteria specific to the position.</li>
                 </ul>
                 `
             },
@@ -1583,26 +1607,35 @@ const JOB_PATHS = [
                 name: "Support Engineer II",
                 description: `
                 <h3>Class Concept / Competency</h3>
-                <br>
+                Leads third-level customer support & provides system administration assistance to other support personnel on technical problem resolution & request management. <br>
+                Serves as primary subject matter expert on multiple Pulte applications.<br>
+                Serves as liaison to IT & business teams to ensure standard audit controls are developed and implemented in applications and systems.<br>
+                Leads team initiatives & participates simultaneously in multiple IT projects.<br>
+                Sets strategy on client workstation hardware & software management & plans implementations.<br>
+                Provides leadership & mentoring to less senior team members including SE I's.<br>
+                Leads efforts in performing regular system/application audit as outlined in annual audit plans. Documents and communicates audit findings with internal/external audit teams.<br>
+                Provides technical leadership & support of enterprise systems in scope for the TSC. <br>
                 <br>
                 <h3>Typical Responsibilities</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Provides third-level support on highly complex cases escalated by other team members.</li>
+                    <li>Specializes in at least two technologies in use at Pulte including independently managing at least one enterprise-wide management system (e.g., WSUS, Cherwell, SCCM, D.A.).</li>
+                    <li>Helps evaluate performance to service level agreements & procedures; recommends corrections; leads implementation of changes.</li>
+                    <li>May be responsible for preparing & communicating case analytics for the department.</li>
+                    <li>Leads multiple internal initiatives while simultaneously contributing to other critical projects.</li>
+                    <li>Creates communications for large (1000+) customer audiences; as well as polished communications for IT & non-IT leadership audiences.</li>
+                    <li>Participates in cross-functional, critical incident management initiatives including root-cause analysis.</li>
+                    <li>Provides direction in evaluating the adequacy of IT controls for achieving business objectives in compliance with company policies & standards</li>
+                    <li>Provides guidance and direction in areas of application and systems access controls to business clients in support of existing controls framework.</li>
+                    <li>Travel may be required (typically quarterly or less).</li>
                 </ul>
                 <h3>Education / Experience</h3>
                 <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
+                    <li>Bachelor's degree in Computer Information Systems or equivalent experience required.</li>
+                    <li>Microsoft system certifications or equivalent 5-7 years' client technical support in at least one technical specialty area is required.</li>
+                    <li>A broad understanding of a variety of system & technical specialty areas is required.</li>
+                    <li>Strong professional written & verbal communications skills including the ability to clearly communicate technical concepts to a non-technical audience are required.</li>
+                    <li>These minimum requirements may also include additional criteria specific to the position.</li>
                 </ul>
                 `
             }
