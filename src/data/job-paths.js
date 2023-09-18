@@ -158,57 +158,11 @@ const JOB_PATHS = [
             },
             {
                 name: "IT VP",
-                description: `
-                <h3>Class Concept / Competency</h3>
-                <br>
-                <br>
-                <h3>Typical Responsibilities</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                <h3>Education / Experience</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                `
+                description: "Job description currently unavailable"
             },
             {
                 name: "CIO",
-                description: `
-                <h3>Class Concept / Competency</h3>
-                <br>
-                <br>
-                <h3>Typical Responsibilities</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                <h3>Education / Experience</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                `
+                description: "Job description currently unavailable"
             }
         ]
     },
@@ -218,30 +172,7 @@ const JOB_PATHS = [
         jobs: [
             {
                 name: "Business Administrator",
-                description: `
-                <h3>Class Concept / Competency</h3>
-                <br>
-                <br>
-                <h3>Typical Responsibilities</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                <h3>Education / Experience</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                `
+                description: "Job description currently unavailable"
             },
             {
                 name: "IT Admin Specialist I",
@@ -336,30 +267,7 @@ const JOB_PATHS = [
             },
             {
                 name: "IT Finance Manager",
-                description: `
-                <h3>Class Concept / Competency</h3>
-                <br>
-                <br>
-                <h3>Typical Responsibilities</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                <h3>Education / Experience</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                `
+                description: "Job description currently unavailable"
             }
         ]
     },
@@ -799,30 +707,7 @@ const JOB_PATHS = [
         jobs: [
             {
                 name: "Junior Developer",
-                description: `
-                <h3>Class Concept / Competency</h3>
-                <br>
-                <br>
-                <h3>Typical Responsibilities</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                <h3>Education / Experience</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                `
+                description: "Job description currently unavailable"
             },
             {
                 name: "Software Developer I",
@@ -1056,57 +941,11 @@ const JOB_PATHS = [
         jobs: [
             {
                 name: "IT Implementation Specialist I",
-                description: `
-                <h3>Class Concept / Competency</h3>
-                <br>
-                <br>
-                <h3>Typical Responsibilities</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                <h3>Education / Experience</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                `
+                description: "Job description currently unavailable"
             },
             {
                 name: "IT Implementation Specialist II",
-                description: `
-                <h3>Class Concept / Competency</h3>
-                <br>
-                <br>
-                <h3>Typical Responsibilities</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                <h3>Education / Experience</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                `
+                description: "Job description currently unavailable"
             }
         ]
     },
@@ -1116,30 +955,7 @@ const JOB_PATHS = [
         jobs: [
             {
                 name: "IT Security Analyst",
-                description: `
-                <h3>Class Concept / Competency</h3>
-                <br>
-                <br>
-                <h3>Typical Responsibilities</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                <h3>Education / Experience</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                `
+                description: "Job description currently unavailable"
             },
             {
                 name: "IT Security Engineer I",
@@ -1238,57 +1054,11 @@ const JOB_PATHS = [
             },
             {
                 name: "IT Security Manager",
-                description: `
-                <h3>Class Concept / Competency</h3>
-                <br>
-                <br>
-                <h3>Typical Responsibilities</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                <h3>Education / Experience</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                `
+                description: "Job description currently unavailable"
             },
             {
                 name: "CISO",
-                description: `
-                <h3>Class Concept / Competency</h3>
-                <br>
-                <br>
-                <h3>Typical Responsibilities</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                <h3>Education / Experience</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                `
+                description: "Job description currently unavailable"
             }
         ]
     },
@@ -1746,57 +1516,11 @@ const JOB_PATHS = [
         jobs: [
             {
                 name: "DBA I",
-                description: `
-                <h3>Class Concept / Competency</h3>
-                <br>
-                <br>
-                <h3>Typical Responsibilities</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                <h3>Education / Experience</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                `
+                description: "Job description currently unavailable"
             },
             {
                 name: "DBA II",
-                description: `
-                <h3>Class Concept / Competency</h3>
-                <br>
-                <br>
-                <h3>Typical Responsibilities</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                <h3>Education / Experience</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                `
+                description: "Job description currently unavailable"
             }
         ]
     },
@@ -1944,57 +1668,11 @@ const JOB_PATHS = [
         jobs: [
             {
                 name: "Release Coordinator I",
-                description: `
-                <h3>Class Concept / Competency</h3>
-                <br>
-                <br>
-                <h3>Typical Responsibilities</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                <h3>Education / Experience</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                `
+                description: "Job description currently unavailable"
             },
             {
                 name: "Release Coordinator II",
-                description: `
-                <h3>Class Concept / Competency</h3>
-                <br>
-                <br>
-                <h3>Typical Responsibilities</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                <h3>Education / Experience</h3>
-                <ul>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                `
+                description: "Job description currently unavailable"
             }
         ]
     }
