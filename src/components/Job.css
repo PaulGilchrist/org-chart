@@ -29,12 +29,12 @@
     border-radius: 5px;
     bottom: 0;
     color: #ffffff;
-    font-size: 0.85em;
+    font-size: 0.9em;
     justify-content: center;
     left: 0;
     margin: auto;
     max-height: 95%;
-    max-width: 35%;
+    max-width: 40%;
     padding: 10px;
     pointer-events: none;
     position: fixed;
@@ -44,7 +44,7 @@
 
 @media (max-width: 1299px) {
     .job-description {
-        max-width: 40%;
+        max-width: 50%;
     }
     .job-item {
         height: 55px;
@@ -55,8 +55,8 @@
 
 @media (max-width: 991px) {
     .job-description {
-        font-size: 0.90em;
-        max-width: 45%;
+        font-size: 0.95em;
+        max-width: 60%;
     }
     .job-item {
         height: 50px;
@@ -68,7 +68,7 @@
 @media (max-width: 767px) {
     .job-description {
         font-size: 0.95em;
-        max-width: 50%;
+        max-width: 70%;
     }
     .job-item {
         height: 45px;
@@ -80,7 +80,7 @@
 @media (max-width: 575px) {
     .job-description {
         font-size: 1em;
-        max-width: 60%;
+        max-width: 90%;
     }
     .job-item {
         height: 40px;
