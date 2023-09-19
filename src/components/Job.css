@@ -24,21 +24,28 @@
 }
 
 .job-description {
-    /* Adjust the background color of the hover text as needed */
+    align-items: center;
     background-color: rgba(0, 0, 0, 0.8);
     border-radius: 5px;
-    /* Adjust the text color of the hover text as needed */
+    bottom: 0;
     color: #ffffff;
     font-size: 0.85em;
-    left: 50%;
-    max-width: 600px;
+    justify-content: center;
+    left: 0;
+    margin: auto;
+    max-height: 95%;
+    max-width: 35%;
     padding: 10px;
-    position: absolute;
-    top: 50%;
-    transform: translate(-50%, -50%);
+    pointer-events: none;
+    position: fixed;
+    right: 0;
+    top: 0;
 }
 
 @media (max-width: 1299px) {
+    .job-description {
+        max-width: 40%;
+    }
     .job-item {
         height: 55px;
         padding: 0 8px 0 8px;
@@ -47,6 +54,9 @@
 }
 
 @media (max-width: 991px) {
+    .job-description {
+        max-width: 45%;
+    }
     .job-item {
         height: 50px;
         padding: 0 6px 0 6px;
@@ -55,6 +65,9 @@
 }
 
 @media (max-width: 767px) {
+    .job-description {
+        max-width: 50%;
+    }
     .job-item {
         height: 45px;
         padding: 0 4px 0 4px;
@@ -63,6 +76,9 @@
 }
 
 @media (max-width: 575px) {
+    .job-description {
+        max-width: 60%;
+    }
     .job-item {
         height: 40px;
         padding: 0 2px 0 2px;

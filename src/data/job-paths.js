@@ -158,11 +158,11 @@ const JOB_PATHS = [
             },
             {
                 name: "IT VP",
-                description: "Job description currently unavailable"
+                description: null
             },
             {
                 name: "CIO",
-                description: "Job description currently unavailable"
+                description: null
             }
         ]
     },
@@ -172,7 +172,7 @@ const JOB_PATHS = [
         jobs: [
             {
                 name: "Business Administrator",
-                description: "Job description currently unavailable"
+                description: null
             },
             {
                 name: "IT Admin Specialist I",
@@ -267,7 +267,7 @@ const JOB_PATHS = [
             },
             {
                 name: "IT Finance Manager",
-                description: "Job description currently unavailable"
+                description: null
             }
         ]
     },
@@ -707,7 +707,7 @@ const JOB_PATHS = [
         jobs: [
             {
                 name: "Junior Developer",
-                description: "Job description currently unavailable"
+                description: null
             },
             {
                 name: "Software Developer I",
@@ -941,11 +941,43 @@ const JOB_PATHS = [
         jobs: [
             {
                 name: "IT Implementation Specialist I",
-                description: "Job description currently unavailable"
+                description: null
             },
             {
                 name: "IT Implementation Specialist II",
-                description: "Job description currently unavailable"
+                description: `
+                <h3>Summary</h3>
+                This role will be involved in various IT transformation projects to provide guidance and assistance on the deployment of technology applications to the Division operating teams.  This role will focus on driving adoption, ultimate utilization of and proficiency with enterprise systems and the changes that impact our stakeholders.<br>
+                <br>
+                <h3>Responsibilities</h3>
+                <ul>
+                    <li>Partner with Division stakeholders and functional experts on readiness and deployment tasks.  Facilitate and report on these tasks and provide hands-on support and facilitation where necessary.</li>
+                    <li>Resolve issues and mitigate risks and escalate as necessary.</li>
+                    <li>Minimize the “change burden” on division day to day operations by providing guidance, strategic use and best practices for technology solutions.</li>
+                    <li>Maintain in depth understanding of business processes across functions within the assigned Area.  Also understand corporate business processes and variance between Divisions and Areas.</li>
+                    <li>Become subject matter expert in enterprise systems.</li>
+                    <li>Lead and facilitate collaborative and consensus-building business and technical sessions and workshops.</li>
+                    <li>Build positive relationships and collaborate with project teams, project sponsors and advisors, leadership and other key stakeholders.</li>
+                    <li>Evaluate and recommend business and system requirements and enhancements.  Assist vertical team with prioritization.</li>
+                    <li>Act as point person for IT teams to coordinate, schedule and manage logistics of all on-site and virtual sessions in alignment with the project and change adoption plans.</li>
+                </ul>
+                <h3>Requirements</h3>
+                <ul>
+                    <li>A bachelor's degree in a field related to the position or a combination of related education and work experience to equal four years.</li>
+                    <li>Experience rolling out enterprise systems preferred.</li>
+                    <li>Homebuilding experience a plus.</li>
+                    <li>Some travel may be required.</li>
+                </ul>
+                <h3>Knowledge / Skills / Abilities</h3>
+                <ul>
+                    <li>Strong written and verbal communication skills, including the ability to communicate technical concepts to a non-technical audience across all levels of the organization.</li>
+                    <li>Accomplished presentation and group facilitation skills.</li>
+                    <li>Ability to handle a demanding workload and conflicting priorities in a time-sensitive, rapidly changing environment.</li>
+                    <li>Build and maintain relationships across all levels of the organization.</li>
+                    <li>Must be strategic (set vision with leaders) and tactical (executing on the work).</li>
+                    <li>Ability to analyze current state, understand future state and provide direction and guidance for the transition.</li>
+                </ul>
+                `
             }
         ]
     },
@@ -955,7 +987,7 @@ const JOB_PATHS = [
         jobs: [
             {
                 name: "IT Security Analyst",
-                description: "Job description currently unavailable"
+                description: null
             },
             {
                 name: "IT Security Engineer I",
@@ -1054,11 +1086,11 @@ const JOB_PATHS = [
             },
             {
                 name: "IT Security Manager",
-                description: "Job description currently unavailable"
+                description: null
             },
             {
                 name: "CISO",
-                description: "Job description currently unavailable"
+                description: null
             }
         ]
     },
@@ -1516,11 +1548,11 @@ const JOB_PATHS = [
         jobs: [
             {
                 name: "DBA I",
-                description: "Job description currently unavailable"
+                description: null
             },
             {
                 name: "DBA II",
-                description: "Job description currently unavailable"
+                description: null
             }
         ]
     },
@@ -1668,11 +1700,36 @@ const JOB_PATHS = [
         jobs: [
             {
                 name: "Release Coordinator I",
-                description: "Job description currently unavailable"
+                description: null
             },
             {
                 name: "Release Coordinator II",
-                description: "Job description currently unavailable"
+                description: `
+                <h3>Responsibilities</h3>
+                <ul>
+                    <li>Manages release calendar to prevent release or resource collisions and ensure visibility across the organization</li>
+                    <li>Facilitates release calendar review meeting</li>
+                    <li>Collaborates with PM's to ensure required information and application team resources are secured for releases</li>
+                    <li>Collaborates with application team members to develop standard checklist for releases</li>
+                    <li>Schedules release appointments</li>
+                    <li>Creates / updates change control case; interacts with change control board</li>
+                    <li>Facilitates release appointment; ensuring information and necessary resources are accounted for</li>
+                    <li>Leads release problem resolution and/or escalates release issues per standard procedures</li>
+                    <li>Anticipates potential release issues/risks and plans/communicates mitigation steps as appropriate</li>
+                    <li>Closes release through appropriate documentation and storage of release artifacts</li>
+                    <li>Measures and reports on release coordination statistics</li>
+                    <li>Proactively solicits feedback regarding release process/activity from project teams</li>
+                    <li>Participates in and/or leads continuous improvement efforts related to release coordination (people, process, technology)</li>
+                </ul>
+                <h3>Experience</h3>
+                <ul>
+                    <li>Proficiency in software release coordination, project coordination, or project management</li>
+                    <li>Proficiency with MS Office / MS Office 365 tools including Word, PowerPoint, Excel, Outlook, OneNote, SharePoint</li>
+                    <li>Experience in a software development project role such as BA, SA, QA, Development</li>
+                    <li>Familiarity with software development concepts and the Software Development Lifecycle</li>
+                    <li>While not critical, any familiarity or experience with the technical aspects of software delivery including source control (Azure DevOps), Continuous Integration, Continuous Delivery (using Visual Studio Team Services, Jenkins, Puppet, Chef, etc.), SQL Server, Windows server configuration/IIS, scripting languages such as PowerShell and/or software delivery automation are a strong plus.</li>
+                </ul>
+                `
             }
         ]
     }
