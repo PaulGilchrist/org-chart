@@ -56,7 +56,7 @@
 @media (max-width: 991px) {
     .job-description {
         font-size: 0.95em;
-        max-width: 60%;
+        max-width: 65%;
     }
     .job-item {
         height: 50px;
@@ -68,7 +68,7 @@
 @media (max-width: 767px) {
     .job-description {
         font-size: 0.95em;
-        max-width: 70%;
+        max-width: 80%;
     }
     .job-item {
         height: 45px;
@@ -80,7 +80,7 @@
 @media (max-width: 575px) {
     .job-description {
         font-size: 1em;
-        max-width: 90%;
+        max-width: 95%;
     }
     .job-item {
         height: 40px;
