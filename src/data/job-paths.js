@@ -95,7 +95,7 @@ const JOB_PATHS = [
                 `
             },
             {
-                name: "IT Sr. Manager / BRM",
+                name: "IT Sr. Manager",
                 description: `
                 <h3>Class Concept / Competency</h3>
                 Maintains information technology strategies by managing staff & researching & directing the implementation of technologically strategic solutions across technically diverse teams.<br>
@@ -127,7 +127,7 @@ const JOB_PATHS = [
                 `
             },
             {
-                name: "IT Director",
+                name: "IT Director (BRM)",
                 description: `
                 <h3>Class Concept / Competency</h3>
                 With the CIO & business partners, develops long-term systems & strategic growth plans. Develops & executes vision & strategy aligned with the company's business goals.<br>
@@ -1564,8 +1564,6 @@ const JOB_PATHS = [
                 name: "DevOps Engineer I",
                 description: `
                 <h3>Summary</h3>
-                PulteGroup, Inc. is looking to expand our team of talented Information Technology professionals. We have an excellent reputation as a great place to work with an open, collaborative culture. We are looking for an experienced DevOps Engineer to join our Application Delivery team. We seek a highly motivated individual with a proven track-record of delivering successful IT and business outcomes.<br>
-                The DevOps Engineer will be a member of PulteGroup's Application Delivery team and will report to an IT Manager. The role will be based out of PulteGroup's corporate office extension in Tempe, AZ or corporate office in Atlanta, GA and will require collaboration and partnership with team members across multiple functions/locations.  The DevOps Engineer position will be required to work within flexible working hours with periodic evening hours necessary for deployment, support, and on-call activities.<br>
                 As a DevOps Engineer, you will be responsible for the tools, frameworks, automation, processes, and services that enable the delivery of software and cloud environments to the end user.  Success in this role is defined by achieving fast and simple processes that measurably accelerate Dev to Prod cycle time.<br>
                 We will help you attain your career development goals with training, mentoring, and growth opportunities.<br>
                 We believe success starts with having the right people -- those who have the right attitude and aptitude. We seek out goal-oriented professionals who are creators, leaders, and pioneers. We value diversity in our workforce. By bringing together people with different backgrounds, thoughts, and life experiences, we create a competitive advantage.<br>
