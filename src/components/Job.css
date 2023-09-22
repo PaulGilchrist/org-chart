@@ -24,6 +24,7 @@
     background-color: #8C7C78;
     color:black;
     transition-duration: 0.3s;
+    transform: scale(1.025)
 }
 
 .job-description {
