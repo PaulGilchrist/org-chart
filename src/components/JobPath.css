@@ -9,6 +9,7 @@
 .job-path {
     background-color: #2d5688;
     border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
     color: white;
     cursor:default;
     display: grid;
