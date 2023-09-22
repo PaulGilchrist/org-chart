@@ -22,6 +22,8 @@
 .job-item.hovered {
     /* Adjust the hover background color as needed */
     background-color: #8C7C78;
+    color:black;
+    transition-duration: 0.3s;
 }
 
 .job-description {
